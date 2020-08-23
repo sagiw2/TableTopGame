@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.HoudiniNiagaraEditor.cpp.obj": [
+			"HoudiniNiagaraEditor.cpp.obj",
+			"HoudiniPointCacheAssetActions.cpp.obj",
+			"HoudiniPointCacheFactory.cpp.obj"
+		],
+		"Module.HoudiniNiagaraEditor.gen.cpp.obj": [
+			"HoudiniNiagaraEditor.init.gen.cpp.obj",
+			"HoudiniPointCacheFactory.gen.cpp.obj"
+		]
+	}
+}

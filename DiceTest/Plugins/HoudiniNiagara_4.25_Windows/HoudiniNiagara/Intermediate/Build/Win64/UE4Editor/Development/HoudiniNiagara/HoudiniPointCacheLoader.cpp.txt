@@ -1,0 +1,4 @@
+D:\GitHub\UnrealEngine\Engine\Plugins\FX\HoudiniNiagara\Intermediate\Build\Win64\UE4Editor\Development\HoudiniNiagara\Definitions.HoudiniNiagara.h
+D:\GitHub\UnrealEngine\Engine\Plugins\FX\HoudiniNiagara\Source\HoudiniNiagara\Public\HoudiniPointCacheLoader.h
+D:\GitHub\UnrealEngine\Engine\Plugins\FX\HoudiniNiagara\Source\HoudiniNiagara\Public\HoudiniPointCache.h
+D:\GitHub\UnrealEngine\Engine\Plugins\FX\HoudiniNiagara\Intermediate\Build\Win64\UE4Editor\Inc\HoudiniNiagara\HoudiniPointCache.generated.h

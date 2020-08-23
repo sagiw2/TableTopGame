@@ -1,0 +1,3 @@
+D:\GitHub\UnrealEngine\Engine\Plugins\FX\HoudiniNiagara\Intermediate\Build\Win64\UE4Editor\Development\HoudiniNiagara\Definitions.HoudiniNiagara.h
+D:/GitHub/UnrealEngine/Engine/Plugins/FX/HoudiniNiagara/Source/HoudiniNiagara/Private/HoudiniNiagara.cpp
+D:\GitHub\UnrealEngine\Engine\Plugins\FX\HoudiniNiagara\Source\HoudiniNiagara\Public\HoudiniNiagara.h

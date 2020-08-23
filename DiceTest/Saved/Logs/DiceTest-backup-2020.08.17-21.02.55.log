@@ -1,0 +1,1786 @@
+﻿Log file open, 08/17/20 18:44:41
+LogInit: Display: Running engine for game: DiceTest
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.350612
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin HoudiniNiagara
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin NiagaraExtras
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/sagi/Documents/Unreal Projects/DiceTest/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.08.17-15.44.42:633][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.08.17-15.44.42:633][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.08.17-15.44.42:634][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/sagi/Documents/Unreal Projects/DiceTest/Saved/Config/Windows/Engine.ini]
+[2020.08.17-15.44.42:634][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.08.17-15.44.42:634][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/sagi/Documents/Unreal Projects/DiceTest/Saved/Config/Windows/Engine.ini]
+[2020.08.17-15.44.42:634][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/sagi/Documents/Unreal Projects/DiceTest/Saved/Config/Windows/Engine.ini]
+[2020.08.17-15.44.42:634][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.08.17-15.44.42:634][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.08.17-15.44.42:634][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.08.17-15.44.42:634][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.08.17-15.44.42:634][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.08.17-15.44.42:634][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.08.17-15.44.42:634][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.08.17-15.44.42:634][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.08.17-15.44.42:634][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.08.17-15.44.42:634][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.08.17-15.44.42:634][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.08.17-15.44.42:634][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.08.17-15.44.42:634][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.08.17-15.44.42:634][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.08.17-15.44.42:634][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/sagi/Documents/Unreal Projects/DiceTest/Saved/Config/Windows/Engine.ini]
+[2020.08.17-15.44.42:635][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.08.17-15.44.42:635][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.08.17-15.44.42:635][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.08.17-15.44.42:635][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.08.17-15.44.42:635][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.08.17-15.44.42:635][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.08.17-15.44.42:635][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.08.17-15.44.42:635][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.08.17-15.44.42:635][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.08.17-15.44.42:635][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.08.17-15.44.42:635][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.08.17-15.44.42:635][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.08.17-15.44.42:635][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.08.17-15.44.42:635][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/sagi/Documents/Unreal Projects/DiceTest/Saved/Config/Windows/Engine.ini]
+[2020.08.17-15.44.42:635][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/sagi/Documents/Unreal Projects/DiceTest/Saved/Config/Windows/Engine.ini]
+[2020.08.17-15.44.42:647][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sagi/Documents/Unreal Projects/DiceTest/Saved/Config/Windows/Scalability.ini]
+[2020.08.17-15.44.42:647][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.17-15.44.42:648][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.17-15.44.42:648][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sagi/Documents/Unreal Projects/DiceTest/Saved/Config/Windows/Scalability.ini]
+[2020.08.17-15.44.42:648][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.17-15.44.42:648][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sagi/Documents/Unreal Projects/DiceTest/Saved/Config/Windows/Scalability.ini]
+[2020.08.17-15.44.42:648][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.17-15.44.42:648][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.17-15.44.42:648][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.17-15.44.42:648][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.17-15.44.42:648][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.17-15.44.42:648][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.17-15.44.42:648][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.17-15.44.42:648][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.17-15.44.42:648][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.17-15.44.42:648][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.17-15.44.42:648][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.17-15.44.42:648][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.17-15.44.42:648][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.17-15.44.42:648][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.17-15.44.42:648][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.17-15.44.42:648][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.17-15.44.42:648][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.17-15.44.42:649][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.17-15.44.42:649][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sagi/Documents/Unreal Projects/DiceTest/Saved/Config/Windows/Scalability.ini]
+[2020.08.17-15.44.42:649][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.17-15.44.42:649][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.17-15.44.42:649][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.17-15.44.42:649][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.17-15.44.42:649][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.17-15.44.42:649][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.17-15.44.42:649][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.17-15.44.42:649][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.17-15.44.42:649][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.17-15.44.42:649][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.17-15.44.42:649][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.17-15.44.42:649][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.17-15.44.42:649][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.17-15.44.42:649][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.17-15.44.42:649][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.17-15.44.42:649][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.17-15.44.42:649][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.17-15.44.42:649][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.17-15.44.42:649][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.17-15.44.42:649][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.17-15.44.42:650][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.17-15.44.42:650][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.17-15.44.42:650][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.17-15.44.42:650][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.17-15.44.42:650][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.17-15.44.42:650][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.17-15.44.42:650][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.17-15.44.42:650][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.17-15.44.42:650][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.17-15.44.42:650][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.17-15.44.42:650][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sagi/Documents/Unreal Projects/DiceTest/Saved/Config/Windows/Scalability.ini]
+[2020.08.17-15.44.42:650][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.17-15.44.42:650][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.17-15.44.42:650][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.17-15.44.42:650][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.17-15.44.42:650][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.17-15.44.42:650][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.17-15.44.42:650][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.17-15.44.42:650][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.17-15.44.42:650][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.17-15.44.42:650][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sagi/Documents/Unreal Projects/DiceTest/Saved/Config/Windows/Scalability.ini]
+[2020.08.17-15.44.42:650][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.17-15.44.42:651][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.17-15.44.42:651][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.17-15.44.42:651][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.17-15.44.42:651][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.17-15.44.42:651][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.17-15.44.42:651][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.17-15.44.42:651][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.17-15.44.42:651][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.17-15.44.42:651][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.17-15.44.42:651][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.17-15.44.42:651][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.08.17-15.44.42:651][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.17-15.44.42:651][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.17-15.44.42:651][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.17-15.44.42:651][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.17-15.44.42:651][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.17-15.44.42:651][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.17-15.44.42:651][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.17-15.44.42:651][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.17-15.44.42:651][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.17-15.44.42:651][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.17-15.44.42:651][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.17-15.44.42:651][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.17-15.44.42:652][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.17-15.44.42:652][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.17-15.44.42:652][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sagi/Documents/Unreal Projects/DiceTest/Saved/Config/Windows/Scalability.ini]
+[2020.08.17-15.44.42:652][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.17-15.44.42:652][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.17-15.44.42:652][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/sagi/Documents/Unreal Projects/DiceTest/Saved/Config/Windows/Scalability.ini]
+[2020.08.17-15.44.42:652][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.17-15.44.42:652][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.17-15.44.42:652][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.17-15.44.42:652][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.08.17-15.44.42:652][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.08.17-15.44.42:652][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.08.17-15.44.42:652][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.08.17-15.44.42:654][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.17-15.44.42:654][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.08.17-15.44.42:656][  0]LogHAL: Display: Platform has ~ 8 GB [8458571776 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.08.17-15.44.42:656][  0]LogInit: Going up to parent DeviceProfile []
+[2020.08.17-15.44.42:657][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sagi/Documents/Unreal Projects/DiceTest/Saved/Config/Windows/Scalability.ini]
+[2020.08.17-15.44.42:657][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.17-15.44.42:658][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.17-15.44.42:658][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sagi/Documents/Unreal Projects/DiceTest/Saved/Config/Windows/Scalability.ini]
+[2020.08.17-15.44.42:658][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.17-15.44.42:658][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sagi/Documents/Unreal Projects/DiceTest/Saved/Config/Windows/Scalability.ini]
+[2020.08.17-15.44.42:658][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.17-15.44.42:658][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.17-15.44.42:658][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.17-15.44.42:658][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.17-15.44.42:658][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.17-15.44.42:658][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.17-15.44.42:658][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.17-15.44.42:658][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.17-15.44.42:658][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.17-15.44.42:658][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.17-15.44.42:658][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.17-15.44.42:658][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.17-15.44.42:658][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.17-15.44.42:658][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.17-15.44.42:658][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.17-15.44.42:658][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.17-15.44.42:658][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.17-15.44.42:658][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.17-15.44.42:658][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sagi/Documents/Unreal Projects/DiceTest/Saved/Config/Windows/Scalability.ini]
+[2020.08.17-15.44.42:659][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.17-15.44.42:659][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.17-15.44.42:659][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.17-15.44.42:659][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.17-15.44.42:659][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.17-15.44.42:659][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.17-15.44.42:659][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.17-15.44.42:659][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.17-15.44.42:659][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.17-15.44.42:659][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.17-15.44.42:659][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.17-15.44.42:659][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.17-15.44.42:659][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.17-15.44.42:659][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.17-15.44.42:659][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.17-15.44.42:659][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.17-15.44.42:659][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.17-15.44.42:659][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.17-15.44.42:659][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.17-15.44.42:659][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.17-15.44.42:659][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.17-15.44.42:660][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.17-15.44.42:660][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.17-15.44.42:660][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.17-15.44.42:660][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.17-15.44.42:660][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.17-15.44.42:660][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.17-15.44.42:660][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.17-15.44.42:660][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.17-15.44.42:660][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.17-15.44.42:660][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sagi/Documents/Unreal Projects/DiceTest/Saved/Config/Windows/Scalability.ini]
+[2020.08.17-15.44.42:660][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.17-15.44.42:660][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.17-15.44.42:660][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.17-15.44.42:660][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.17-15.44.42:660][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.17-15.44.42:660][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.17-15.44.42:660][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.17-15.44.42:660][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.17-15.44.42:660][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.17-15.44.42:660][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sagi/Documents/Unreal Projects/DiceTest/Saved/Config/Windows/Scalability.ini]
+[2020.08.17-15.44.42:661][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.17-15.44.42:661][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.17-15.44.42:661][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.17-15.44.42:661][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.17-15.44.42:661][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.17-15.44.42:661][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.17-15.44.42:661][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.17-15.44.42:661][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.17-15.44.42:661][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.17-15.44.42:661][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.17-15.44.42:661][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.17-15.44.42:661][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.08.17-15.44.42:661][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.17-15.44.42:661][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.17-15.44.42:661][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.17-15.44.42:661][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.17-15.44.42:661][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.17-15.44.42:661][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.17-15.44.42:661][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.17-15.44.42:661][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.17-15.44.42:661][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.17-15.44.42:661][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.17-15.44.42:662][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.17-15.44.42:662][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.17-15.44.42:662][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.17-15.44.42:662][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.17-15.44.42:662][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sagi/Documents/Unreal Projects/DiceTest/Saved/Config/Windows/Scalability.ini]
+[2020.08.17-15.44.42:662][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.17-15.44.42:662][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.17-15.44.42:662][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/sagi/Documents/Unreal Projects/DiceTest/Saved/Config/Windows/Scalability.ini]
+[2020.08.17-15.44.42:662][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.17-15.44.42:662][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.17-15.44.42:662][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.17-15.44.42:662][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.08.17-15.44.42:662][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.08.17-15.44.42:662][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.08.17-15.44.42:662][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.08.17-15.44.42:662][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.08.17-15.44.42:663][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.08.17-15.44.42:663][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.08.17-15.44.42:663][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.08.17-15.44.42:663][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/sagi/Documents/Unreal Projects/DiceTest/Saved/Config/Windows/Engine.ini]
+[2020.08.17-15.44.42:666][  0]LogInit: Computer: LAPTOP-0G3L0AA2
+[2020.08.17-15.44.42:666][  0]LogInit: User: sagi
+[2020.08.17-15.44.42:666][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.08.17-15.44.42:666][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.17-15.44.42:667][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.08.17-15.44.42:667][  0]LogMemory: Platform Memory Stats for Windows
+[2020.08.17-15.44.42:667][  0]LogMemory: Process Physical Memory: 114.65 MB used, 114.65 MB peak
+[2020.08.17-15.44.42:667][  0]LogMemory: Process Virtual Memory: 104.29 MB used, 104.29 MB peak
+[2020.08.17-15.44.42:667][  0]LogMemory: Physical Memory: 6253.92 MB used,  1812.80 MB free, 8066.72 MB total
+[2020.08.17-15.44.42:667][  0]LogMemory: Virtual Memory: 5117.02 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2020.08.17-15.44.42:685][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.08.17-15.44.42:907][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.08.17-15.44.42:915][  0]LogInit: Using OS detected language (en-GB).
+[2020.08.17-15.44.42:915][  0]LogInit: Using OS detected locale (en-IL).
+[2020.08.17-15.44.42:950][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.08.17-15.44.43:468][  0]LogInit: Setting process to per monitor DPI aware
+[2020.08.17-15.44.43:574][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.08.17-15.44.43:574][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.08.17-15.44.44:264][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.17-15.44.44:264][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.08.17-15.44.44:264][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.08.17-15.44.44:264][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.17-15.44.44:439][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX150' (Feature Level 11_0)
+[2020.08.17-15.44.44:439][  0]LogD3D11RHI:       1983/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.08.17-15.44.44:470][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2020.08.17-15.44.44:470][  0]LogD3D11RHI:       128/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.08.17-15.44.44:478][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.17-15.44.44:478][  0]LogD3D11RHI:       0/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.17-15.44.44:478][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.17-15.44.44:582][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.17-15.44.44:582][  0]LogD3D11RHI:     GPU DeviceId: 0x1d10 (for the marketing name, search the web for "GPU Device Id")
+[2020.08.17-15.44.44:583][  0]LogWindows: EnumDisplayDevices:
+[2020.08.17-15.44.44:583][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2020.08.17-15.44.44:584][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.08.17-15.44.44:585][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.08.17-15.44.44:585][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.08.17-15.44.44:585][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX150
+[2020.08.17-15.44.44:585][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.08.17-15.44.44:585][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.08.17-15.44.44:585][  0]LogRHI: Texture pool is 1388 MB (70% of 1983 MB)
+[2020.08.17-15.44.44:662][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.08.17-15.44.44:665][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.08.17-15.44.44:665][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.17-15.44.44:665][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.08.17-15.44.44:733][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.08.17-15.44.45:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.08.17-15.44.45:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.08.17-15.44.45:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.08.17-15.44.45:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.08.17-15.44.45:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.08.17-15.44.45:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.08.17-15.44.45:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.08.17-15.44.45:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.08.17-15.44.45:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.08.17-15.44.45:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.08.17-15.44.45:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.08.17-15.44.45:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.08.17-15.44.45:305][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.08.17-15.44.45:319][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.08.17-15.44.45:331][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.08.17-15.44.45:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.08.17-15.44.45:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.08.17-15.44.45:366][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.08.17-15.44.45:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.08.17-15.44.45:390][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.08.17-15.44.45:420][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.08.17-15.44.45:420][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.08.17-15.44.45:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.08.17-15.44.45:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.08.17-15.44.45:451][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.08.17-15.44.45:464][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.08.17-15.44.45:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.08.17-15.44.45:488][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.08.17-15.44.45:488][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.08.17-15.44.45:505][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.08.17-15.44.45:662][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Intermediate/Shaders/WorkingDirectory/11320/).
+[2020.08.17-15.44.45:662][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sagi/AppData/Local/Temp/UnrealShaderWorkingDir/F89FDF204F3F49AA7B55B6A20A256F3A/'.
+[2020.08.17-15.44.45:665][  0]LogXGEController: Cleaning working directory: C:/Users/sagi/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.08.17-15.44.45:665][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.08.17-15.44.45:665][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.08.17-15.44.45:665][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.17-15.44.46:660][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.17-15.44.47:307][  0]LogDerivedDataCache: Loaded boot cache 0.64s 76MB C:/Users/sagi/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.08.17-15.44.47:307][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sagi/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.08.17-15.44.47:307][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.17-15.44.47:307][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.17-15.44.47:307][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.17-15.44.47:307][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.17-15.44.47:334][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.17-15.44.47:334][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.17-15.44.47:334][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.08.17-15.44.47:336][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sagi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.17-15.44.47:336][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.08.17-15.44.47:336][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.08.17-15.44.47:465][  0]LogSlate: Using FreeType 2.10.0
+[2020.08.17-15.44.47:472][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.17-15.44.47:572][  0]LogAssetRegistry: FAssetRegistry took 0.0097 seconds to start up
+[2020.08.17-15.44.48:505][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.17-15.44.48:909][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.17-15.44.48:909][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.08.17-15.44.48:909][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.08.17-15.44.48:909][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.08.17-15.44.48:910][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.08.17-15.44.48:995][  0]LogNetVersion: DiceTest 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 296477533)
+[2020.08.17-15.44.50:596][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000002D255C05800), frame # 0
+[2020.08.17-15.44.50:596][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D255AAAAC0), frame # 0
+[2020.08.17-15.44.50:605][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D255B01C00), frame # 0
+[2020.08.17-15.44.50:694][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.043554 seconds
+[2020.08.17-15.44.50:699][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.08.17-15.44.50:700][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.08.17-15.44.50:700][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.08.17-15.44.51:690][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.08.17-15.44.51:701][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.08.17-15.44.51:883][  0]SourceControl: Source control is disabled
+[2020.08.17-15.44.51:885][  0]SourceControl: Source control is disabled
+[2020.08.17-15.44.51:900][  0]SourceControl: Source control is disabled
+[2020.08.17-15.44.51:909][  0]SourceControl: Source control is disabled
+[2020.08.17-15.44.51:926][  0]SourceControl: Source control is disabled
+[2020.08.17-15.44.52:540][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.17-15.44.52:582][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.17-15.44.52:582][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.17-15.44.52:722][  0]LogOcInput: OculusInput pre-init called
+[2020.08.17-15.44.52:758][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.08.17-15.44.52:759][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.08.17-15.44.53:038][  0]LogEngine: Initializing Engine...
+[2020.08.17-15.44.53:048][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.17-15.44.53:048][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.08.17-15.44.53:055][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
+[2020.08.17-15.44.53:337][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.08.17-15.44.53:417][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.08.17-15.44.53:417][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D2577ABC00), frame # 0
+[2020.08.17-15.44.53:418][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D2577FD800), frame # 0
+[2020.08.17-15.44.53:522][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.17-15.44.53:522][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.17-15.44.53:522][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.17-15.44.53:522][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.17-15.44.53:522][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.17-15.44.53:522][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.17-15.44.53:522][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.17-15.44.53:522][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.17-15.44.53:526][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.17-15.44.53:526][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.17-15.44.53:573][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.17-15.44.53:573][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.08.17-15.44.53:650][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.08.17-15.44.53:657][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.17-15.44.53:665][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.17-15.44.53:665][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.17-15.44.53:668][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.17-15.44.53:669][  0]LogInit: FAudioDevice initialized.
+[2020.08.17-15.44.53:672][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.08.17-15.44.53:993][  0]LogDerivedDataCache: Saved boot cache 0.32s 76MB C:/Users/sagi/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.08.17-15.44.53:993][  0]LogInit: Texture streaming: Enabled
+[2020.08.17-15.44.54:051][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.08.17-15.44.54:051][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.08.17-15.44.54:078][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.08.17-15.44.54:201][  0]LogInit: Transaction tracking system initialized
+[2020.08.17-15.44.54:292][  0]BlueprintLog: New page: Editor Load
+[2020.08.17-15.44.54:605][  0]LocalizationService: Localization service is disabled
+[2020.08.17-15.44.55:174][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.17-15.44.55:174][  0]LogCook: Display: Mobile HDR setting 1
+[2020.08.17-15.44.55:637][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sagi/Documents/Unreal Projects/DiceTest/Content/' took 0.03s
+[2020.08.17-15.44.56:137][  0]SourceControl: Source control is disabled
+[2020.08.17-15.44.56:138][  0]LogUnrealEdMisc: Loading editor; pre map load, took 20.461
+[2020.08.17-15.44.56:139][  0]Cmd: MAP LOAD FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.17-15.44.56:140][  0]LightingResults: New page: Lighting Build
+[2020.08.17-15.44.56:151][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.08.17-15.44.56:152][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-15.44.56:154][  0]MapCheck: New page: Map Check
+[2020.08.17-15.44.56:154][  0]LightingResults: New page: Lighting Build
+[2020.08.17-15.44.56:189][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D2577ABC00), frame # 0
+[2020.08.17-15.44.56:189][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D2577FD800), frame # 0
+[2020.08.17-15.44.56:190][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.08.17-15.44.57:678][  0]LogPhysicsCore: Error: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\Cooking.cpp 198) eINVALID_PARAMETER : Cooking::cookConvexMesh: user-provided convex mesh descriptor is invalid!
+[2020.08.17-15.44.57:679][  0]LogPhysicsCore: Error: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\Cooking.cpp 198) eINVALID_PARAMETER : Cooking::cookConvexMesh: user-provided convex mesh descriptor is invalid!
+[2020.08.17-15.44.57:679][  0]LogPhysics: Warning: Failed to cook convex: /Game/MyShit/Miniatures/Human_Male__Ranger.Human_Male__Ranger 0 (FlipX:0). The remaining elements will not get cooked.
+[2020.08.17-15.44.57:679][  0]LogPhysicsCore: Error: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\Cooking.cpp 198) eINVALID_PARAMETER : Cooking::cookConvexMesh: user-provided convex mesh descriptor is invalid!
+[2020.08.17-15.44.57:679][  0]LogPhysicsCore: Error: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\Cooking.cpp 198) eINVALID_PARAMETER : Cooking::cookConvexMesh: user-provided convex mesh descriptor is invalid!
+[2020.08.17-15.44.57:679][  0]LogPhysics: Warning: Failed to cook convex: /Game/MyShit/Miniatures/Human_Male__Ranger.Human_Male__Ranger 0 (FlipX:1). The remaining elements will not get cooked.
+[2020.08.17-15.44.58:291][  0]LogPhysics: Warning: Attempt to build physics data for /Game/MyShit/Miniatures/Human_Male__Ranger.Human_Male__Ranger:BodySetup_0 when we are unable to.
+[2020.08.17-15.44.58:621][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.17-15.44.58:621][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D24EAADC00), frame # 0
+[2020.08.17-15.44.58:621][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D24EA97B00), frame # 0
+[2020.08.17-15.44.58:888][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.17-15.44.58:937][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.08.17-15.44.58:939][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.17-15.44.58:941][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.246ms to complete.
+[2020.08.17-15.44.58:941][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.803
+[2020.08.17-15.44.59:010][  0]LogUnrealEdMisc: Total Editor Startup Time, took 23.334
+[2020.08.17-15.44.59:341][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.17-15.44.59:358][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.17-15.44.59:371][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.17-15.44.59:385][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.17-15.44.59:423][  0]LogCollectionManager: Loaded 0 collections in 0.006538 seconds
+[2020.08.17-15.44.59:501][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sagi/Documents/Unreal Projects/DiceTest/Saved/Collections/' took 0.00s
+[2020.08.17-15.44.59:501][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sagi/Documents/Unreal Projects/DiceTest/Content/Developers/sagi/Collections/' took 0.00s
+[2020.08.17-15.44.59:501][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sagi/Documents/Unreal Projects/DiceTest/Content/Collections/' took 0.00s
+[2020.08.17-15.44.59:501][  0]LogContentBrowser: Native class hierarchy populated in 0.0316 seconds. Added 3432 classes and 830 folders.
+[2020.08.17-15.44.59:525][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.08.17-15.44.59:885][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.08.17-15.44.59:897][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 2 classes and 0 folders.
+[2020.08.17-15.45.00:349][  0]LogSlate: Took 0.001532 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.17-15.45.00:358][  0]LogSlate: Took 0.001505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.08.17-15.45.00:380][  0]LogSlate: Took 0.001479 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.08.17-15.45.00:620][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.08.17-15.45.00:981][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.08.17-15.45.00:981][  0]LogLoad: (Engine Initialization) Total time: 25.30 seconds
+[2020.08.17-15.45.00:981][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.08.17-15.45.01:124][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.08.17-15.45.01:162][  0]LogSlate: Took 0.001645 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.17-15.45.01:209][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/sagi/Documents/Unreal Projects/DiceTest/Content/' took 0.19s
+[2020.08.17-15.45.01:260][  1]LogAssetRegistry: Asset discovery search completed in 13.6910 seconds
+[2020.08.17-15.45.01:270][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000430 seconds (updated 0 objects)
+[2020.08.17-15.45.51:523][606]LogSlate: Took 0.000323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.17-15.46.00:713][606]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.08.17-15.46.21:452][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.08.17-15.46.21:456][ 61]LogMetaData: Removing '/Game/MyShit/TurnBasedGS.TurnBasedGS:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MyShit/TurnBased.PackageMetaData'
+[2020.08.17-15.46.21:456][ 61]LogMetaData: Removing '/Game/MyShit/TurnBasedGS.SKEL_TurnBasedGS_C' ref from Metadata '/Game/MyShit/TurnBased.PackageMetaData'
+[2020.08.17-15.46.21:456][ 61]LogMetaData: Removing '/Game/MyShit/TurnBasedGS.TurnBasedGS_C' ref from Metadata '/Game/MyShit/TurnBased.PackageMetaData'
+[2020.08.17-15.46.21:456][ 61]LogMetaData: Removing '/Game/MyShit/TurnBasedGS.TurnBasedGS:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MyShit/TurnBased.PackageMetaData'
+[2020.08.17-15.46.21:456][ 61]LogMetaData: Removing '/Game/MyShit/TurnBasedGS.TurnBasedGS:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MyShit/TurnBased.PackageMetaData'
+[2020.08.17-15.46.21:531][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TurnBasedGS" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TurnBasedGS.uasset" SILENT=true
+[2020.08.17-15.46.21:564][ 61]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TurnBasedGS78359680425630ACD7DDBBBDDA391A74.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TurnBasedGS.uasset'
+[2020.08.17-15.46.21:755][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.08.17-15.46.21:790][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.08.17-15.46.21:809][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.08.17-15.46.21:885][ 61]AssetCheck: New page: Asset Save: TurnBasedGS
+[2020.08.17-15.46.21:885][ 61]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TurnBasedGS.TurnBasedGS
+[2020.08.17-15.46.24:860][199]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.08.17-15.46.31:044][199]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.08.17-15.46.41:779][444]MapCheck: New page: Map Check
+[2020.08.17-15.46.41:827][444]Cmd: MAP REBUILD ALLVISIBLE
+[2020.08.17-15.46.41:829][444]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.08.17-15.46.42:183][444]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2020.08.17-15.46.42:448][444]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2020.08.17-15.46.42:448][444]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2020.08.17-15.46.42:448][444]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2020.08.17-15.46.42:473][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.08.17-15.46.42:487][444]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.17-15.46.42:515][444]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.17-15.46.42:518][444]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.08.17-15.46.42:518][444]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.08.17-15.46.42:518][444]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.17-15.46.42:521][444]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.17-15.46.42:528][444]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2020.08.17-15.46.42:624][444]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.08.17-15.46.42:624][444]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.08.17-15.46.42:624][444]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.17-15.46.42:629][444]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.17-15.46.42:633][444]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.17-15.46.42:636][444]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.17-15.46.52:017][444]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 62
+[2020.08.17-15.46.52:017][444]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 61
+[2020.08.17-15.46.52:017][444]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 60
+[2020.08.17-15.46.52:017][444]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 59
+[2020.08.17-15.46.52:017][444]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 58
+[2020.08.17-15.46.52:017][444]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 57
+[2020.08.17-15.46.52:017][444]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 56
+[2020.08.17-15.46.52:017][444]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 55
+[2020.08.17-15.46.52:017][444]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 54
+[2020.08.17-15.46.52:017][444]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 53
+[2020.08.17-15.46.52:017][444]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 52
+[2020.08.17-15.46.52:017][444]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 51
+[2020.08.17-15.46.52:018][444]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 50
+[2020.08.17-15.46.52:018][444]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 49
+[2020.08.17-15.46.52:018][444]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 48
+[2020.08.17-15.46.52:018][444]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 47
+[2020.08.17-15.46.52:018][444]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 46
+[2020.08.17-15.46.52:018][444]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 45
+[2020.08.17-15.46.52:018][444]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 44
+[2020.08.17-15.46.52:018][444]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 43
+[2020.08.17-15.46.52:018][444]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 42
+[2020.08.17-15.46.52:018][444]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2020.08.17-15.46.52:018][444]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 40
+[2020.08.17-15.46.52:018][444]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 39
+[2020.08.17-15.46.52:018][444]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2020.08.17-15.46.52:018][444]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 37
+[2020.08.17-15.46.52:018][444]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2020.08.17-15.46.52:018][444]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2020.08.17-15.46.52:018][444]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2020.08.17-15.46.52:018][444]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2020.08.17-15.46.52:018][444]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2020.08.17-15.46.52:018][444]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2020.08.17-15.46.52:018][444]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2020.08.17-15.46.52:019][444]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.08.17-15.46.52:019][444]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2020.08.17-15.46.52:019][444]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2020.08.17-15.46.52:019][444]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.08.17-15.46.52:019][444]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.08.17-15.46.52:019][444]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.08.17-15.46.52:019][444]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2020.08.17-15.46.52:019][444]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2020.08.17-15.46.52:019][444]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.08.17-15.46.52:019][444]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.08.17-15.46.52:019][444]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.08.17-15.46.52:019][444]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.08.17-15.46.52:019][444]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.08.17-15.46.52:019][444]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.08.17-15.46.52:019][444]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.08.17-15.46.52:019][444]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.08.17-15.46.52:019][444]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.08.17-15.46.52:019][444]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.08.17-15.46.52:019][444]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.08.17-15.46.52:019][444]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.08.17-15.46.52:020][444]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.08.17-15.46.52:020][444]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.08.17-15.46.52:020][444]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.08.17-15.46.52:020][444]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.08.17-15.46.52:020][444]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.08.17-15.46.52:020][444]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.08.17-15.46.52:020][444]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.08.17-15.46.52:020][444]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.08.17-15.46.52:020][444]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.08.17-15.46.52:020][444]TextureStreamingBuild: Display: Compiling optional shaders took 9.540 seconds.
+[2020.08.17-15.46.52:042][444]LogLevel: Display: Export Material TexCoord Scales took 0.022 seconds.
+[2020.08.17-15.46.52:045][444]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2020.08.17-15.46.52:063][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.08.17-15.46.52:078][444]LightingResults: New page: Lighting Build - 17 Aug 2020, 21:46:52
+[2020.08.17-15.46.52:176][444]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.08.17-15.46.52:397][444]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.08.17-15.46.52:432][444]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.08.17-15.46.54:003][444]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.08.17-15.46.54:003][444]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11320
+[2020.08.17-15.47.03:732][444]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.08.17-15.47.03:732][444]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.08.17-15.47.03:732][444]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.08.17-15.47.03:732][444]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.08.17-15.47.03:732][444]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.08.17-15.47.04:121][444]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.08.17-15.47.04:121][444]MapCheck: New page: ThirdPersonExampleMap - 17 Aug 2020, 21:47:04
+[2020.08.17-15.47.04:122][444]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2020.08.17-15.47.04:128][444]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 6.448ms to complete.
+[2020.08.17-15.47.04:130][444]LogEditorBuildUtils: Build time 0:22
+[2020.08.17-15.47.04:328][444]LogSlate: Took 0.001314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.08.17-15.47.05:096][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.08.17-15.47.13:254][471]Job is a success!
+[2020.08.17-15.47.13:842][472]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.032s
+[2020.08.17-15.47.13:843][472]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.08.17-15.47.13:843][472]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.08.17-15.47.13:843][472]LogVolumetricLightmapImport:      Bricks at depth
+[2020.08.17-15.47.13:843][472]LogVolumetricLightmapImport:          0: 3.1% covering 100.0% of volume
+[2020.08.17-15.47.13:843][472]LogVolumetricLightmapImport:          1: 18.8% covering 9.4% of volume
+[2020.08.17-15.47.13:844][472]LogVolumetricLightmapImport:          2: 78.1% covering 0.6% of volume
+[2020.08.17-15.47.13:844][472]LogVolumetricLightmapImport:      Bricks in each level
+[2020.08.17-15.47.13:844][472]LogVolumetricLightmapImport:          ThirdPersonExampleMap 			 32 bricks 	 100.0% (Persistent Level)
+[2020.08.17-15.47.14:612][472]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.08.17-15.47.14:612][472]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.08.17-15.47.14:613][472]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.08.17-15.47.14:613][472]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 128X64)
+[2020.08.17-15.47.14:613][472]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2020.08.17-15.47.14:613][472]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2020.08.17-15.47.14:613][472]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2020.08.17-15.47.14:613][472]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.08.17-15.47.14:613][472]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.08.17-15.47.14:823][472]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2020.08.17-15.47.14:823][472]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 128X64)
+[2020.08.17-15.47.14:824][472]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X512)
+[2020.08.17-15.47.14:824][472]Lightmass on LAPTOP-0G3L0AA2: 7.75 sec total, 4.71 sec importing, 17 ms setup, 200 ms photons, 2.77 sec processing, 0 ms extra exporting [217/217 mappings]. Threads: 19.4 sec total, 2.40 sec processing.
+[2020.08.17-15.47.14:833][472]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 6 meshes in 3 LightmapResourceClusters (2.0 Meshes per cluster).
+[2020.08.17-15.47.14:861][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.08.17-15.47.14:896][472]LogStaticLightingSystem: Illumination: 22.4 sec (560 ms encoding lightmaps, 151 ms encoding shadowmaps)
+[2020.08.17-15.47.14:896][472]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (0.1 MB streaming, 2.7 MB non-streaming), 6 textures
+[2020.08.17-15.47.14:896][472]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.0 MB streaming, 0.3 MB non-streaming), 3 textures
+[2020.08.17-15.47.15:743][472]DumpUnbuiltLightIteractions
+[2020.08.17-15.47.15:743][472]Lights with unbuilt interactions: 0
+[2020.08.17-15.47.15:743][472]
+[2020.08.17-15.47.15:743][472]Primitives with unbuilt interactions: 0
+[2020.08.17-15.47.15:941][473]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.08.17-15.47.15:942][473]MapCheck: New page: ThirdPersonExampleMap - 17 Aug 2020, 21:47:15
+[2020.08.17-15.47.15:943][473]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.792ms to complete.
+[2020.08.17-15.49.11:323][817]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.17-15.49.11:323][817]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.17-15.49.12:679][861]LogSlate: Window 'Message Log' being destroyed
+[2020.08.17-15.49.12:712][861]LogSlate: Window 'Message Log' being destroyed
+[2020.08.17-15.49.22:281][ 99]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyShit/TableTopCam.TableTopCam
+[2020.08.17-15.49.22:822][ 99]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 125 classes and 0 folders.
+[2020.08.17-15.49.24:820][ 99]LogSlate: Took 0.002477 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.08.17-15.49.25:045][100]LogSlate: Took 0.002135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.08.17-15.49.30:829][247]LogSlate: Window 'TableTopCam' being destroyed
+[2020.08.17-15.49.30:855][247]LogSlate: Window 'TableTopCam' being destroyed
+[2020.08.17-15.49.30:862][247]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.08.17-15.49.30:862][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-15.49.51:414][522]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.08.17-15.49.51:513][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.08.17-15.49.51:986][522]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/ThirdPersonExampleMap32E32BCB4D43B2E7C217E08C03B5CF42.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.17-15.49.52:042][522]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.567
+[2020.08.17-15.49.52:235][522]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/ThirdPersonExampleMap_BuiltData765772974FA0B4FB85A2B48C5ADB8DCD.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.08.17-15.49.52:240][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TurnBasedPS" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TurnBasedPS.uasset" SILENT=true
+[2020.08.17-15.49.52:250][522]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TurnBasedPS9ED1547443E6903390DD1F896A61CE7F.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TurnBasedPS.uasset'
+[2020.08.17-15.49.52:288][522]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.17-15.49.52:288][522]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.17-15.49.52:289][522]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.08.17-15.49.52:289][522]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TurnBasedPS.TurnBasedPS
+[2020.08.17-15.50.23:031][129]LogSlate: Took 0.016013 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.08.17-15.50.23:032][129]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'ש (U+05e9)'
+[2020.08.17-15.50.23:055][129]LogSlate: Took 0.020350 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.08.17-15.50.24:849][168]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.08.17-15.50.24:855][168]LogMetaData: Removing '/Game/MyShit/TשנךקTםפGS.TשנךקTםפGS_C' ref from Metadata '/Game/MyShit/TurnBasedGS.PackageMetaData'
+[2020.08.17-15.50.24:855][168]LogMetaData: Removing '/Game/MyShit/TשנךקTםפGS.SKEL_TשנךקTםפGS_C' ref from Metadata '/Game/MyShit/TurnBasedGS.PackageMetaData'
+[2020.08.17-15.50.24:855][168]LogMetaData: Removing '/Game/MyShit/TשנךקTםפGS.TשנךקTםפGS:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MyShit/TurnBasedGS.PackageMetaData'
+[2020.08.17-15.50.24:855][168]LogMetaData: Removing '/Game/MyShit/TשנךקTםפGS.TשנךקTםפGS:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MyShit/TurnBasedGS.PackageMetaData'
+[2020.08.17-15.50.24:855][168]LogMetaData: Removing '/Game/MyShit/TשנךקTםפGS.TשנךקTםפGS:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MyShit/TurnBasedGS.PackageMetaData'
+[2020.08.17-15.50.24:908][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TשנךקTםפGS" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TשנךקTםפGS.uasset" SILENT=true
+[2020.08.17-15.50.24:921][168]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TשנךקTםפGS9AFAA319441FEE61B4B26E84B17D1EC4.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TשנךקTםפGS.uasset'
+[2020.08.17-15.50.25:256][168]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.08.17-15.50.25:302][168]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.08.17-15.50.25:334][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.08.17-15.50.25:418][168]AssetCheck: New page: Asset Save: TשנךקTםפGS
+[2020.08.17-15.50.25:418][168]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TשנךקTםפGS.TשנךקTםפGS
+[2020.08.17-15.50.25:944][181]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.17-15.50.25:944][181]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.17-15.50.36:527][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.08.17-15.50.36:531][388]LogMetaData: Removing '/Game/MyShit/TableTopGS.TableTopGS_C' ref from Metadata '/Game/MyShit/TשנךקTםפGS.PackageMetaData'
+[2020.08.17-15.50.36:532][388]LogMetaData: Removing '/Game/MyShit/TableTopGS.SKEL_TableTopGS_C' ref from Metadata '/Game/MyShit/TשנךקTםפGS.PackageMetaData'
+[2020.08.17-15.50.36:532][388]LogMetaData: Removing '/Game/MyShit/TableTopGS.TableTopGS:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MyShit/TשנךקTםפGS.PackageMetaData'
+[2020.08.17-15.50.36:532][388]LogMetaData: Removing '/Game/MyShit/TableTopGS.TableTopGS:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MyShit/TשנךקTםפGS.PackageMetaData'
+[2020.08.17-15.50.36:532][388]LogMetaData: Removing '/Game/MyShit/TableTopGS.TableTopGS:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MyShit/TשנךקTםפGS.PackageMetaData'
+[2020.08.17-15.50.36:591][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopGS" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopGS.uasset" SILENT=true
+[2020.08.17-15.50.36:602][388]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopGS347DC5EF454467BF71A4F3AB20B9AAF0.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopGS.uasset'
+[2020.08.17-15.50.36:908][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.08.17-15.50.36:956][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.08.17-15.50.36:990][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.08.17-15.50.37:078][388]AssetCheck: New page: Asset Save: TableTopGS
+[2020.08.17-15.50.37:079][388]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopGS.TableTopGS
+[2020.08.17-15.50.45:055][552]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.08.17-15.50.45:058][552]LogMetaData: Removing '/Game/MyShit/TableTopPS.TableTopPS:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MyShit/TurnBasedPS.PackageMetaData'
+[2020.08.17-15.50.45:058][552]LogMetaData: Removing '/Game/MyShit/TableTopPS.SKEL_TableTopPS_C' ref from Metadata '/Game/MyShit/TurnBasedPS.PackageMetaData'
+[2020.08.17-15.50.45:058][552]LogMetaData: Removing '/Game/MyShit/TableTopPS.TableTopPS_C' ref from Metadata '/Game/MyShit/TurnBasedPS.PackageMetaData'
+[2020.08.17-15.50.45:058][552]LogMetaData: Removing '/Game/MyShit/TableTopPS.TableTopPS:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MyShit/TurnBasedPS.PackageMetaData'
+[2020.08.17-15.50.45:058][552]LogMetaData: Removing '/Game/MyShit/TableTopPS.TableTopPS:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MyShit/TurnBasedPS.PackageMetaData'
+[2020.08.17-15.50.45:125][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPS" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPS.uasset" SILENT=true
+[2020.08.17-15.50.45:138][552]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPS027537D64E5C594BC65EFAA85C7E5EB0.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPS.uasset'
+[2020.08.17-15.50.45:423][552]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.08.17-15.50.45:466][552]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.08.17-15.50.45:499][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.08.17-15.50.45:580][552]AssetCheck: New page: Asset Save: TableTopPS
+[2020.08.17-15.50.45:580][552]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPS.TableTopPS
+[2020.08.17-15.50.59:971][895]LogLinker: Warning: While loading '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/Material_001.uasset' failed to load '/Game/MyShit/Texture': Can't find file.
+[2020.08.17-15.50.59:971][895]LogLinker: Warning: While loading '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/Material_001.uasset' failed to load '/Game/MyShit/Texture': Can't find file.
+[2020.08.17-15.50.59:972][895]LogLinker: Warning: While loading '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/Material_001.uasset' failed to load '/Game/MyShit/Texture': Can't find file.
+[2020.08.17-15.50.59:972][895]LogLinker: Warning: While loading '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/Material_001.uasset' failed to load '/Game/MyShit/Texture': Can't find file.
+[2020.08.17-15.50.59:972][895]LogLinker: Warning: While loading '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/Material_001.uasset' failed to load '/Game/MyShit/Texture': Can't find file.
+[2020.08.17-15.50.59:973][895]LoadErrors: Failed to load /Game/MyShit/Texture.Texture Referenced by Material_001
+[2020.08.17-15.50.59:973][895]LogLinker: Warning: While loading '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/Material_001.uasset' failed to load '/Game/MyShit/Texture': Can't find file.
+[2020.08.17-15.50.59:974][895]LogLinker: Warning: While loading '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/Material_001.uasset' failed to load '/Game/MyShit/Texture': Can't find file.
+[2020.08.17-15.50.59:975][895]LoadErrors: Failed to load /Game/MyShit/Texture.Texture Referenced by MaterialExpressionTextureSample_0
+[2020.08.17-15.50.59:975][895]LogLinker: Warning: While loading '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/Material_001.uasset' failed to load '/Game/MyShit/Texture': Can't find file.
+[2020.08.17-15.50.59:977][895]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2020.08.17-15.50.59:980][895]LogMaterial: Warning: C:\Users\sagi\Documents\Unreal Projects\DiceTest\Content\MyShit\Material_001.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.17-15.50.59:980][895]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.08.17-15.51.03:434][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/Dice/fabric" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/Dice/fabric.uasset" SILENT=true
+[2020.08.17-15.51.03:460][ 82]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/fabric20C315DB468CD5E853EAFBA49405AB29.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/Dice/fabric.uasset'
+[2020.08.17-15.51.03:464][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/fabric" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/fabric.uasset" SILENT=true
+[2020.08.17-15.51.03:499][ 82]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/fabricBA4E1AE941A483F74E1EB89E1E79B671.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/fabric.uasset'
+[2020.08.17-15.51.03:515][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/Dice/silk_n" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/Dice/silk_n.uasset" SILENT=true
+[2020.08.17-15.51.03:768][ 82]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/silk_n96102A314EC6C6199929D8A4BA4DD60C.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/Dice/silk_n.uasset'
+[2020.08.17-15.51.03:782][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/Dice/silk_d" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/Dice/silk_d.uasset" SILENT=true
+[2020.08.17-15.51.04:003][ 82]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/silk_d63C7E96A496319E7C77B0B9FD55E822D.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/Dice/silk_d.uasset'
+[2020.08.17-15.51.04:029][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/Dice/Material_001" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/Dice/Material_001.uasset" SILENT=true
+[2020.08.17-15.51.04:043][ 82]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/Material_0016D3A6EFA451E646993D4D39DEEF8A793.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/Dice/Material_001.uasset'
+[2020.08.17-15.51.04:656][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.08.17-15.51.04:688][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.08.17-15.51.04:721][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.08.17-15.51.04:771][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.08.17-15.51.04:802][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.08.17-15.51.04:934][ 82]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.17-15.51.04:934][ 82]LogContentValidation: Display: Validating Material /Game/MyShit/Dice/fabric.fabric
+[2020.08.17-15.51.04:934][ 82]LogContentValidation: Display: Validating ObjectRedirector /Game/MyShit/fabric.fabric
+[2020.08.17-15.51.04:934][ 82]LogContentValidation: Display: Validating Texture2D /Game/MyShit/Dice/silk_n.silk_n
+[2020.08.17-15.51.04:934][ 82]LogContentValidation: Display: Validating Texture2D /Game/MyShit/Dice/silk_d.silk_d
+[2020.08.17-15.51.04:934][ 82]LogContentValidation: Display: Validating Material /Game/MyShit/Dice/Material_001.Material_001
+[2020.08.17-15.51.45:711][314]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyShit/TableTopCam.TableTopCam
+[2020.08.17-15.52.01:761][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopCam" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopCam.uasset" SILENT=true
+[2020.08.17-15.52.01:837][628]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopCam849B60C84EE28C0DF7C771865B157864.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopCam.uasset'
+[2020.08.17-15.52.01:869][628]AssetCheck: New page: Asset Save: TableTopCam
+[2020.08.17-15.52.01:869][628]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopCam.TableTopCam
+[2020.08.17-15.52.04:466][687]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.17-15.52.04:515][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.17-15.52.04:516][687]PIE: New page: PIE session: ThirdPersonExampleMap (17 Aug 2020, 21:52:04)
+[2020.08.17-15.52.04:528][687]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.08.17-15.52.04:535][687]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.08.17-15.52.04:539][687]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.17-15.52.04:612][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071770s)
+[2020.08.17-15.52.04:615][687]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.17-15.52.04:615][687]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D2F890FE00), frame # 4687
+[2020.08.17-15.52.04:615][687]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D2E353EE80), frame # 4687
+[2020.08.17-15.52.04:616][687]LogPlayLevel: PIE: World Init took: (0.003688s)
+[2020.08.17-15.52.04:616][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.075938s)
+[2020.08.17-15.52.04:654][687]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.08.17-15.52.04:661][687]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.17-15.52.04:661][687]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.17-15.52.04:661][687]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.17-15.52.04:661][687]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.17-15.52.04:661][687]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.17-15.52.04:661][687]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.17-15.52.04:661][687]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.17-15.52.04:661][687]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.17-15.52.04:662][687]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.17-15.52.04:662][687]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.17-15.52.04:673][687]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.17-15.52.04:673][687]LogAudioMixer: Display: 1: FrontRight
+[2020.08.17-15.52.04:702][687]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.08.17-15.52.04:704][687]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.17-15.52.04:704][687]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.17-15.52.04:704][687]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.17-15.52.04:705][687]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.17-15.52.04:731][687]LogInit: FAudioDevice initialized.
+[2020.08.17-15.52.04:749][687]LogLoad: Game class is 'TableTopGM_C'
+[2020.08.17-15.52.04:798][687]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.08.17-18.52.04
+[2020.08.17-15.52.04:812][687]LogWorld: Bringing up level for play took: 0.045003
+[2020.08.17-15.52.04:814][687]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.08.17-15.52.04:839][687]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2020.08.17-15.52.04:852][687]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.08.17-15.52.04:853][687]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.08.17-15.52.04:855][687]PIE: Server logged in
+[2020.08.17-15.52.04:859][687]PIE: Play in editor total start time 0.361 seconds.
+[2020.08.17-15.52.27:569][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.17-15.52.27:569][118]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.17-15.52.27:569][118]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.17-15.52.27:572][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-15.52.27:652][118]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.17-15.52.27:662][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-15.52.27:750][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.17-15.52.27:762][118]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D2E353EE80), frame # 5118
+[2020.08.17-15.52.27:762][118]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D2F890FE00), frame # 5118
+[2020.08.17-15.52.27:801][118]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2020.08.17-15.52.27:861][119]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.08.17-15.53.02:113][261]LogRenderer: Reallocating scene render targets to support 1208x692 Format 10 NumSamples 1 (Frame:1).
+[2020.08.17-15.53.17:451][453]BlueprintLog: New page: Compile TableTopCam
+[2020.08.17-15.53.17:563][453]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2020.08.17-15.53.18:429][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopCam" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopCam.uasset" SILENT=true
+[2020.08.17-15.53.18:501][464]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopCam834C3D3B4CAD0DBA5CCFCD8E12BC5180.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopCam.uasset'
+[2020.08.17-15.53.18:536][464]AssetCheck: New page: Asset Save: TableTopCam
+[2020.08.17-15.53.18:536][464]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopCam.TableTopCam
+[2020.08.17-15.53.37:397][608]BlueprintLog: New page: Compile TableTopCam
+[2020.08.17-15.53.37:500][608]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2020.08.17-15.53.38:396][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopCam" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopCam.uasset" SILENT=true
+[2020.08.17-15.53.38:466][620]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopCamF0A5B90B4E6CF159521117A8354F6AA9.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopCam.uasset'
+[2020.08.17-15.53.38:498][620]AssetCheck: New page: Asset Save: TableTopCam
+[2020.08.17-15.53.38:498][620]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopCam.TableTopCam
+[2020.08.17-15.54.21:446][943]BlueprintLog: New page: Compile TableTopCam
+[2020.08.17-15.54.21:548][943]LogUObjectHash: Compacting FUObjectHashTables data took   7.09ms
+[2020.08.17-15.54.22:627][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopCam" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopCam.uasset" SILENT=true
+[2020.08.17-15.54.22:708][957]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopCam15C06685480E6E7E6DDDD3BB3D549D8D.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopCam.uasset'
+[2020.08.17-15.54.22:741][957]AssetCheck: New page: Asset Save: TableTopCam
+[2020.08.17-15.54.22:741][957]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopCam.TableTopCam
+[2020.08.17-15.55.19:613][374]BlueprintLog: New page: Compile TableTopCam
+[2020.08.17-15.55.19:708][374]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2020.08.17-15.55.20:263][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopCam" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopCam.uasset" SILENT=true
+[2020.08.17-15.55.20:331][381]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopCam3759F3F74300036FF0607385683C450D.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopCam.uasset'
+[2020.08.17-15.55.20:363][381]AssetCheck: New page: Asset Save: TableTopCam
+[2020.08.17-15.55.20:364][381]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopCam.TableTopCam
+[2020.08.17-15.55.37:893][492]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.17-15.55.37:936][492]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.17-15.55.37:936][492]PIE: New page: PIE session: ThirdPersonExampleMap (17 Aug 2020, 21:55:37)
+[2020.08.17-15.55.37:937][492]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.17-15.55.38:019][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081826s)
+[2020.08.17-15.55.38:021][492]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.17-15.55.38:022][492]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D31300BC00), frame # 6492
+[2020.08.17-15.55.38:022][492]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D312EF11C0), frame # 6492
+[2020.08.17-15.55.38:022][492]LogPlayLevel: PIE: World Init took: (0.002639s)
+[2020.08.17-15.55.38:022][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.084872s)
+[2020.08.17-15.55.38:076][492]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2020.08.17-15.55.38:081][492]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.17-15.55.38:081][492]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.17-15.55.38:081][492]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.17-15.55.38:081][492]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.17-15.55.38:081][492]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.17-15.55.38:081][492]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.17-15.55.38:081][492]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.17-15.55.38:081][492]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.17-15.55.38:082][492]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.17-15.55.38:082][492]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.17-15.55.38:089][492]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.17-15.55.38:089][492]LogAudioMixer: Display: 1: FrontRight
+[2020.08.17-15.55.38:121][492]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.08.17-15.55.38:121][492]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.17-15.55.38:122][492]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.17-15.55.38:122][492]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.17-15.55.38:122][492]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.17-15.55.38:151][492]LogInit: FAudioDevice initialized.
+[2020.08.17-15.55.38:166][492]LogLoad: Game class is 'TableTopGM_C'
+[2020.08.17-15.55.38:200][492]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.08.17-18.55.38
+[2020.08.17-15.55.38:202][492]LogWorld: Bringing up level for play took: 0.034476
+[2020.08.17-15.55.38:203][492]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.08.17-15.55.38:210][492]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.08.17-15.55.38:210][492]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.08.17-15.55.38:211][492]PIE: Server logged in
+[2020.08.17-15.55.38:212][492]PIE: Play in editor total start time 0.284 seconds.
+[2020.08.17-15.56.04:019][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.17-15.56.04:019][  5]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.17-15.56.04:019][  5]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.17-15.56.04:022][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-15.56.04:099][  5]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.17-15.56.04:105][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-15.56.04:184][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.17-15.56.04:185][  5]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D312EF11C0), frame # 7005
+[2020.08.17-15.56.04:185][  5]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D31300BC00), frame # 7005
+[2020.08.17-15.56.04:192][  5]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.08.17-15.56.04:241][  6]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.08.17-15.56.19:858][100]LogSlate: Window 'TableTopCam' being destroyed
+[2020.08.17-15.56.19:943][100]LogSlate: Window 'TableTopCam' being destroyed
+[2020.08.17-15.56.19:956][100]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.08.17-15.56.19:956][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-15.56.22:544][144]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-15.56.26:454][191]LogSlate: Window 'TableTopPC' being destroyed
+[2020.08.17-15.56.26:532][191]LogSlate: Window 'TableTopPC' being destroyed
+[2020.08.17-15.56.26:537][191]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.08.17-15.56.26:538][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-15.56.52:945][308]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-15.57.59:890][ 54]LogSlate: Took 0.001663 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.08.17-15.58.22:071][422]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-15.58.22:210][422]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2020.08.17-15.58.23:262][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-15.58.23:326][438]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPC1DB4C1D84375D8788AADAC9A09B9EFEC.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-15.58.23:357][438]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-15.58.23:357][438]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-15.58.43:317][695]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-15.58.43:450][695]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2020.08.17-15.58.44:497][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-15.58.44:552][711]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPC863E6F494941ECE0877ACB853E0134FF.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-15.58.44:584][711]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-15.58.44:584][711]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.01.40:849][546]LogEditorTransaction: Undo Break Pin Links
+[2020.08.17-16.01.41:977][564]LogEditorTransaction: Undo Convert to Pure Cast
+[2020.08.17-16.02.06:424][938]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.02.06:506][938]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.08.17-16.02.32:130][378]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.02.32:204][378]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.08.17-16.02.32:929][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.02.32:997][389]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPC1CC3C9F14819BCA8C9BD67B97221FB1A.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.02.33:029][389]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.02.33:029][389]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.02.39:273][497]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.02.39:350][497]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.08.17-16.02.39:995][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.02.40:054][507]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPC12822E494802C7FA04AC24AD6DBEFA79.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.02.40:085][507]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.02.40:085][507]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.03.23:399][192]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.03.23:478][192]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.08.17-16.03.38:111][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.03.38:173][371]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPCC78D311E459EB5F886604CB75AB1A5CA.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.03.38:204][371]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.03.38:204][371]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.04.17:211][614]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyShit/TableTopCam.TableTopCam
+[2020.08.17-16.08.19:048][853]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.17-16.08.19:091][853]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.17-16.08.19:091][853]PIE: New page: PIE session: ThirdPersonExampleMap (17 Aug 2020, 22:08:19)
+[2020.08.17-16.08.19:091][853]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.17-16.08.19:161][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069650s)
+[2020.08.17-16.08.19:163][853]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.17-16.08.19:163][853]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D3278C5400), frame # 13853
+[2020.08.17-16.08.19:163][853]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D326AEEC00), frame # 13853
+[2020.08.17-16.08.19:163][853]LogPlayLevel: PIE: World Init took: (0.002524s)
+[2020.08.17-16.08.19:164][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.072592s)
+[2020.08.17-16.08.19:208][853]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.08.17-16.08.19:212][853]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.17-16.08.19:212][853]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.17-16.08.19:212][853]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.17-16.08.19:212][853]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.17-16.08.19:212][853]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.17-16.08.19:213][853]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.17-16.08.19:213][853]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.17-16.08.19:213][853]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.17-16.08.19:213][853]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.17-16.08.19:213][853]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.17-16.08.19:224][853]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.17-16.08.19:224][853]LogAudioMixer: Display: 1: FrontRight
+[2020.08.17-16.08.19:252][853]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.08.17-16.08.19:253][853]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.17-16.08.19:253][853]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.17-16.08.19:253][853]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.17-16.08.19:253][853]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.17-16.08.19:281][853]LogInit: FAudioDevice initialized.
+[2020.08.17-16.08.19:290][853]LogLoad: Game class is 'TableTopGM_C'
+[2020.08.17-16.08.19:319][853]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.08.17-19.08.19
+[2020.08.17-16.08.19:319][853]LogWorld: Bringing up level for play took: 0.027770
+[2020.08.17-16.08.19:320][853]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.08.17-16.08.19:327][853]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.08.17-16.08.19:327][853]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.08.17-16.08.19:327][853]PIE: Server logged in
+[2020.08.17-16.08.19:328][853]PIE: Play in editor total start time 0.248 seconds.
+[2020.08.17-16.08.55:331][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.17-16.08.55:331][657]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.17-16.08.55:332][657]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.17-16.08.55:334][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-16.08.55:381][657]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.17-16.08.55:387][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-16.08.55:457][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.17-16.08.55:465][657]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D326AEEC00), frame # 14657
+[2020.08.17-16.08.55:465][657]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D3278C5400), frame # 14657
+[2020.08.17-16.08.55:469][657]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.08.17-16.08.55:526][658]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.08.17-16.11.09:378][506]BlueprintLog: New page: Compile TableTopCam
+[2020.08.17-16.11.09:472][506]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.08.17-16.11.10:112][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopCam" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopCam.uasset" SILENT=true
+[2020.08.17-16.11.10:180][514]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopCam9159098B49A0864F96C344840CA11922.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopCam.uasset'
+[2020.08.17-16.11.10:212][514]AssetCheck: New page: Asset Save: TableTopCam
+[2020.08.17-16.11.10:212][514]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopCam.TableTopCam
+[2020.08.17-16.11.12:928][563]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.11.13:016][563]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.08.17-16.11.14:987][598]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.17-16.11.15:028][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.17-16.11.15:029][598]PIE: New page: PIE session: ThirdPersonExampleMap (17 Aug 2020, 22:11:15)
+[2020.08.17-16.11.15:029][598]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.17-16.11.15:105][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075479s)
+[2020.08.17-16.11.15:107][598]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.17-16.11.15:107][598]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D32BF37E00), frame # 16598
+[2020.08.17-16.11.15:108][598]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D2E7499E40), frame # 16598
+[2020.08.17-16.11.15:108][598]LogPlayLevel: PIE: World Init took: (0.003187s)
+[2020.08.17-16.11.15:108][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.079120s)
+[2020.08.17-16.11.15:156][598]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.08.17-16.11.15:159][598]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.17-16.11.15:160][598]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.17-16.11.15:160][598]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.17-16.11.15:160][598]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.17-16.11.15:160][598]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.17-16.11.15:160][598]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.17-16.11.15:160][598]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.17-16.11.15:160][598]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.17-16.11.15:161][598]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.17-16.11.15:161][598]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.17-16.11.15:172][598]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.17-16.11.15:172][598]LogAudioMixer: Display: 1: FrontRight
+[2020.08.17-16.11.15:201][598]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.08.17-16.11.15:202][598]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.17-16.11.15:202][598]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.17-16.11.15:202][598]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.17-16.11.15:203][598]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.17-16.11.15:230][598]LogInit: FAudioDevice initialized.
+[2020.08.17-16.11.15:242][598]LogLoad: Game class is 'TableTopGM_C'
+[2020.08.17-16.11.15:272][598]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.08.17-19.11.15
+[2020.08.17-16.11.15:272][598]LogWorld: Bringing up level for play took: 0.028374
+[2020.08.17-16.11.15:273][598]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.08.17-16.11.15:279][598]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.08.17-16.11.15:279][598]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.08.17-16.11.15:280][598]PIE: Server logged in
+[2020.08.17-16.11.15:281][598]PIE: Play in editor total start time 0.261 seconds.
+[2020.08.17-16.11.17:039][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.17-16.11.17:040][676]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.17-16.11.17:040][676]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.17-16.11.17:043][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-16.11.17:052][676]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.17-16.11.17:058][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-16.11.17:130][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.17-16.11.17:134][676]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D2E7499E40), frame # 16676
+[2020.08.17-16.11.17:135][676]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D32BF37E00), frame # 16676
+[2020.08.17-16.11.17:139][676]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.08.17-16.11.17:187][677]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.08.17-16.11.24:388][874]LogSlate: Window 'TableTopCam' being destroyed
+[2020.08.17-16.11.24:415][874]LogSlate: Window 'TableTopCam' being destroyed
+[2020.08.17-16.11.24:416][874]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.08.17-16.11.24:416][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-16.12.39:128][639]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.12.39:208][639]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.08.17-16.12.57:910][379]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyShit/TableTopCam.TableTopCam
+[2020.08.17-16.13.03:847][566]BlueprintLog: New page: Compile TableTopCam
+[2020.08.17-16.13.03:926][566]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.08.17-16.13.04:544][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopCam" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopCam.uasset" SILENT=true
+[2020.08.17-16.13.04:612][584]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopCamD9A551CE447391126F6A318A66806E98.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopCam.uasset'
+[2020.08.17-16.13.04:641][584]AssetCheck: New page: Asset Save: TableTopCam
+[2020.08.17-16.13.04:641][584]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopCam.TableTopCam
+[2020.08.17-16.13.21:098][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.13.21:183][283]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPC1551FE644A9F9D410CD263ACA2E01305.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.13.21:216][283]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.13.21:217][283]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.13.36:408][954]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.13.36:495][954]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.08.17-16.13.37:111][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.13.37:174][977]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPCD150AF2B4BC0C67CE20D919567D2AFD5.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.13.37:206][977]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.13.37:206][977]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.14.51:151][312]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.14.51:232][312]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.08.17-16.14.52:025][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.14.52:102][343]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPCBF16DBF04F12A385009A4C8DBAF9F610.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.14.52:134][343]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.14.52:135][343]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.15.32:382][349]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.15.32:478][349]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.08.17-16.16.11:538][859]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.16.11:624][859]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.08.17-16.16.12:562][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.16.12:624][895]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPCA5CF01894A0F5FE11DFCD2B7902FC0A4.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.16.12:655][895]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.16.12:655][895]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.16.47:627][938]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.16.47:711][938]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2020.08.17-16.16.48:412][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.16.48:480][964]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPCDD1F96D44E240B22838C35B74FB5747E.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.16.48:512][964]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.16.48:512][964]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.17.32:858][395]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.17.32:947][395]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.08.17-16.17.33:562][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.17.33:627][416]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPC225990B34B395F32329AD2920D09D56E.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.17.33:657][416]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.17.33:658][416]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.19.09:714][632]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.19.09:799][632]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.08.17-16.19.13:910][799]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.19.13:999][799]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2020.08.17-16.19.14:561][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.19.14:631][816]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPCAE55A8FC45FA3E304F85779147697720.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.19.14:662][816]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.19.14:662][816]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.20.50:414][466]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.20.50:515][466]LogUObjectHash: Compacting FUObjectHashTables data took   7.51ms
+[2020.08.17-16.20.51:211][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.20.51:293][487]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPCE266E20C40D2978764057783A9904B86.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.20.51:327][487]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.20.51:327][487]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.20.54:150][597]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.20.54:237][597]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.08.17-16.21.49:070][638]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.21.49:156][638]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.08.17-16.21.49:845][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.21.49:913][662]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPC71237533414F4E32508F75AC5DD6D144.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.21.49:949][662]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.21.49:950][662]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.23.28:085][792]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.23.28:171][792]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.08.17-16.23.28:796][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.23.28:871][811]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPC294C557F47B572F029B390BDA742356C.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.23.28:904][811]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.23.28:905][811]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.24.54:362][536]BlueprintLog: New page: Collapse to Macro
+[2020.08.17-16.25.15:813][ 70]LogEditorTransaction: Undo Rename Function
+[2020.08.17-16.25.16:826][ 99]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2020.08.17-16.25.32:005][713]BlueprintLog: New page: Collapse to Macro
+[2020.08.17-16.26.02:922][506]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.26.03:012][506]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2020.08.17-16.26.39:351][989]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.26.39:450][989]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.08.17-16.26.40:263][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.26.40:335][ 17]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPC09DCBE63433D3CF75E765A8D2B2E03F0.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.26.40:366][ 17]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.26.40:366][ 17]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.28.50:405][ 92]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.08.17-16.29.09:255][867]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.08.17-16.30.06:329][964]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.30.06:428][964]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2020.08.17-16.30.07:294][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.30.07:380][995]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPC11BF6D104BD8778D41591E93DE7B6796.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.30.07:420][995]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.30.07:421][995]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.30.25:112][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.30.25:184][409]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPC29A57F5C4E4C87E972CCC5A1C3B015C1.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.30.25:215][409]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.30.25:215][409]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.30.30:431][612]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.08.17-16.30.30:431][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-16.32.00:295][531]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.32.00:393][531]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2020.08.17-16.32.01:162][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.32.01:245][556]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPC913067EB488F5081CB8B02826CB73003.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.32.01:282][556]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.32.01:283][556]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.32.04:591][691]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.17-16.32.04:630][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.17-16.32.04:630][691]PIE: New page: PIE session: ThirdPersonExampleMap (17 Aug 2020, 22:32:04)
+[2020.08.17-16.32.04:669][691]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.17-16.32.04:739][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070075s)
+[2020.08.17-16.32.04:742][691]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.17-16.32.04:742][691]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D31847D400), frame # 55691
+[2020.08.17-16.32.04:742][691]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D330C1BD80), frame # 55691
+[2020.08.17-16.32.04:743][691]LogPlayLevel: PIE: World Init took: (0.002871s)
+[2020.08.17-16.32.04:743][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.073399s)
+[2020.08.17-16.32.04:786][691]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2020.08.17-16.32.04:788][691]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.17-16.32.04:789][691]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.17-16.32.04:789][691]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.17-16.32.04:789][691]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.17-16.32.04:789][691]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.17-16.32.04:789][691]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.17-16.32.04:789][691]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.17-16.32.04:789][691]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.17-16.32.04:790][691]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.17-16.32.04:791][691]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.17-16.32.04:803][691]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.17-16.32.04:803][691]LogAudioMixer: Display: 1: FrontRight
+[2020.08.17-16.32.04:834][691]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.08.17-16.32.04:834][691]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.17-16.32.04:834][691]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.17-16.32.04:834][691]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.17-16.32.04:835][691]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.17-16.32.04:863][691]LogInit: FAudioDevice initialized.
+[2020.08.17-16.32.04:876][691]LogLoad: Game class is 'TableTopGM_C'
+[2020.08.17-16.32.04:907][691]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.08.17-19.32.04
+[2020.08.17-16.32.04:908][691]LogWorld: Bringing up level for play took: 0.029366
+[2020.08.17-16.32.04:908][691]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.08.17-16.32.04:915][691]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.08.17-16.32.04:916][691]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.08.17-16.32.04:916][691]PIE: Server logged in
+[2020.08.17-16.32.04:917][691]PIE: Play in editor total start time 0.297 seconds.
+[2020.08.17-16.32.07:990][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.17-16.32.07:990][833]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.17-16.32.07:991][833]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.17-16.32.07:995][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-16.32.08:004][833]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.17-16.32.08:011][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-16.32.08:078][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.17-16.32.08:080][833]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D330C1BD80), frame # 55833
+[2020.08.17-16.32.08:080][833]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D31847D400), frame # 55833
+[2020.08.17-16.32.08:084][833]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.08.17-16.32.08:142][834]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.08.17-16.32.25:547][184]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.32.25:635][184]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.08.17-16.32.26:243][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.32.26:321][204]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPC4616937140F76B911B6E0E88B19D5A0E.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.32.26:352][204]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.32.26:352][204]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.32.28:340][295]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.17-16.32.28:377][295]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.17-16.32.28:377][295]PIE: New page: PIE session: ThirdPersonExampleMap (17 Aug 2020, 22:32:28)
+[2020.08.17-16.32.28:377][295]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.17-16.32.28:445][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067470s)
+[2020.08.17-16.32.28:447][295]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.17-16.32.28:447][295]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D3101C4200), frame # 56295
+[2020.08.17-16.32.28:447][295]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D34BD374C0), frame # 56295
+[2020.08.17-16.32.28:448][295]LogPlayLevel: PIE: World Init took: (0.002603s)
+[2020.08.17-16.32.28:448][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.070437s)
+[2020.08.17-16.32.28:495][295]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2020.08.17-16.32.28:499][295]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.17-16.32.28:499][295]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.17-16.32.28:499][295]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.17-16.32.28:499][295]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.17-16.32.28:499][295]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.17-16.32.28:499][295]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.17-16.32.28:499][295]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.17-16.32.28:499][295]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.17-16.32.28:500][295]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.17-16.32.28:500][295]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.17-16.32.28:507][295]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.17-16.32.28:507][295]LogAudioMixer: Display: 1: FrontRight
+[2020.08.17-16.32.28:530][295]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.08.17-16.32.28:531][295]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.17-16.32.28:531][295]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.17-16.32.28:531][295]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.17-16.32.28:531][295]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.17-16.32.28:557][295]LogInit: FAudioDevice initialized.
+[2020.08.17-16.32.28:570][295]LogLoad: Game class is 'TableTopGM_C'
+[2020.08.17-16.32.28:599][295]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.08.17-19.32.28
+[2020.08.17-16.32.28:599][295]LogWorld: Bringing up level for play took: 0.027598
+[2020.08.17-16.32.28:599][295]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.08.17-16.32.28:605][295]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.08.17-16.32.28:606][295]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.08.17-16.32.28:606][295]PIE: Server logged in
+[2020.08.17-16.32.28:607][295]PIE: Play in editor total start time 0.239 seconds.
+[2020.08.17-16.32.42:368][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.17-16.32.42:368][835]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.17-16.32.42:368][835]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.17-16.32.42:372][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-16.32.42:384][835]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.17-16.32.42:389][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-16.32.42:422][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.17-16.32.42:459][835]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D34BD374C0), frame # 56835
+[2020.08.17-16.32.42:459][835]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D3101C4200), frame # 56835
+[2020.08.17-16.32.42:463][835]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.08.17-16.32.42:518][836]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.08.17-16.34.46:035][664]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.34.46:128][664]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.08.17-16.35.21:141][531]LogEditorTransaction: Undo Move Nodes
+[2020.08.17-16.35.21:971][550]LogEditorTransaction: Undo Move Nodes
+[2020.08.17-16.35.22:696][571]LogEditorTransaction: Undo Move Node
+[2020.08.17-16.36.07:684][844]LogEditorTransaction: Undo Move Nodes
+[2020.08.17-16.36.08:667][868]LogEditorTransaction: Undo Paste clipboard contents
+[2020.08.17-16.37.07:750][722]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.37.07:843][722]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2020.08.17-16.37.08:595][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.37.08:685][741]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPC863D18A34EC215737D9FB98CCC459C13.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.37.08:720][741]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.37.08:720][741]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.38.26:054][886]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.38.26:148][886]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.08.17-16.38.26:761][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.38.26:850][900]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPC856AAD8F4EDC3D0CAD07B4912440ED17.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.38.26:886][900]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.38.26:886][900]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.38.57:713][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.38.57:798][447]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPC5CEE14A3411AFDFDFAFEC59EE96BEACB.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.38.57:830][447]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.38.57:830][447]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.39.13:881][936]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.39.13:980][936]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2020.08.17-16.39.15:511][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.39.15:602][978]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPC9244ED9E4FB84E6D81FEE5B6820F017D.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.39.15:637][978]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.39.15:637][978]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.39.27:300][173]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.17-16.39.27:345][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.17-16.39.27:345][173]PIE: New page: PIE session: ThirdPersonExampleMap (17 Aug 2020, 22:39:27)
+[2020.08.17-16.39.27:346][173]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.17-16.39.27:411][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065461s)
+[2020.08.17-16.39.27:414][173]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.17-16.39.27:414][173]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D326F0F600), frame # 65173
+[2020.08.17-16.39.27:414][173]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D2E749BC40), frame # 65173
+[2020.08.17-16.39.27:415][173]LogPlayLevel: PIE: World Init took: (0.002999s)
+[2020.08.17-16.39.27:415][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.068892s)
+[2020.08.17-16.39.27:461][173]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2020.08.17-16.39.27:463][173]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.17-16.39.27:464][173]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.17-16.39.27:464][173]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.17-16.39.27:464][173]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.17-16.39.27:464][173]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.17-16.39.27:464][173]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.17-16.39.27:464][173]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.17-16.39.27:464][173]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.17-16.39.27:466][173]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.17-16.39.27:466][173]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.17-16.39.27:478][173]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.17-16.39.27:478][173]LogAudioMixer: Display: 1: FrontRight
+[2020.08.17-16.39.27:507][173]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.08.17-16.39.27:508][173]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.17-16.39.27:508][173]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.17-16.39.27:508][173]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.17-16.39.27:509][173]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.17-16.39.27:536][173]LogInit: FAudioDevice initialized.
+[2020.08.17-16.39.27:546][173]LogLoad: Game class is 'TableTopGM_C'
+[2020.08.17-16.39.27:577][173]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.08.17-19.39.27
+[2020.08.17-16.39.27:577][173]LogWorld: Bringing up level for play took: 0.028962
+[2020.08.17-16.39.27:578][173]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.08.17-16.39.27:585][173]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.08.17-16.39.27:585][173]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.08.17-16.39.27:585][173]PIE: Server logged in
+[2020.08.17-16.39.27:587][173]PIE: Play in editor total start time 0.25 seconds.
+[2020.08.17-16.39.36:678][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.17-16.39.36:678][438]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.17-16.39.36:679][438]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.17-16.39.36:682][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-16.39.36:713][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.17-16.39.36:719][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-16.39.36:788][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.17-16.39.36:790][438]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D2E749BC40), frame # 65438
+[2020.08.17-16.39.36:790][438]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D326F0F600), frame # 65438
+[2020.08.17-16.39.36:794][438]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.08.17-16.39.36:852][439]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.08.17-16.39.57:496][740]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.39.57:600][740]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.08.17-16.39.58:364][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.39.58:450][754]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPCF6CCF3DB44B20DEDD11B3FA2E423F973.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.39.58:486][754]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.39.58:486][754]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.41.04:966][825]LogSlate: Window 'Project Settings' being destroyed
+[2020.08.17-16.41.05:023][825]LogSlate: Window 'Project Settings' being destroyed
+[2020.08.17-16.41.08:726][903]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyShit/TableTopCam.TableTopCam
+[2020.08.17-16.41.33:709][415]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.08.17-16.41.33:710][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-16.42.29:047][268]LogSlate: Window 'Project Settings' being destroyed
+[2020.08.17-16.42.29:119][268]LogSlate: Window 'Project Settings' being destroyed
+[2020.08.17-16.42.38:695][465]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyShit/TableTopCam.TableTopCam
+[2020.08.17-16.43.31:430][515]BlueprintLog: New page: Compile TableTopCam
+[2020.08.17-16.43.31:652][515]LogUObjectHash: Compacting FUObjectHashTables data took   7.80ms
+[2020.08.17-16.43.32:412][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopCam" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopCam.uasset" SILENT=true
+[2020.08.17-16.43.32:491][528]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopCamEC9A93874A8F8B92367C73872BD73659.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopCam.uasset'
+[2020.08.17-16.43.32:528][528]AssetCheck: New page: Asset Save: TableTopCam
+[2020.08.17-16.43.32:528][528]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopCam.TableTopCam
+[2020.08.17-16.43.37:346][609]Cmd: TRANSACTION UNDO
+[2020.08.17-16.43.37:346][609]LogEditorTransaction: Undo Remove Axis Mapping Group
+[2020.08.17-16.43.39:984][659]LogSlate: Window 'Project Settings' being destroyed
+[2020.08.17-16.43.40:042][659]LogSlate: Window 'Project Settings' being destroyed
+[2020.08.17-16.43.41:271][684]BlueprintLog: New page: Compile TableTopCam
+[2020.08.17-16.43.41:407][684]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2020.08.17-16.43.42:062][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopCam" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopCam.uasset" SILENT=true
+[2020.08.17-16.43.42:131][695]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopCam696C49DE40C45828EF74C58F4DFE8998.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopCam.uasset'
+[2020.08.17-16.43.42:167][695]AssetCheck: New page: Asset Save: TableTopCam
+[2020.08.17-16.43.42:167][695]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopCam.TableTopCam
+[2020.08.17-16.43.43:620][725]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.08.17-16.43.43:620][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-16.44.12:701][233]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.44.12:819][233]LogUObjectHash: Compacting FUObjectHashTables data took   6.53ms
+[2020.08.17-16.44.16:973][319]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.44.17:084][319]LogUObjectHash: Compacting FUObjectHashTables data took   6.38ms
+[2020.08.17-16.44.17:646][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.44.17:741][328]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPCC3984BD941E94AEA191F11AD5A15F94E.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.44.17:774][328]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.44.17:774][328]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.44.21:565][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.44.21:655][405]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPCFCA8BF5243EA5E57F5FB4CB96B237AAB.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.44.21:693][405]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.44.21:693][405]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.48.35:425][359]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.48.35:552][359]LogUObjectHash: Compacting FUObjectHashTables data took   7.67ms
+[2020.08.17-16.48.36:180][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.48.36:287][369]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPC24059CEA4957E0F22F5765AF8A33B764.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.48.36:322][369]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.48.36:322][369]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.52.16:967][503]LogEditorTransaction: Undo Create Pin Link
+[2020.08.17-16.52.19:684][556]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.08.17-16.52.22:105][605]LogEditorTransaction: Redo Straighten Connection(s)
+[2020.08.17-16.52.22:955][622]LogEditorTransaction: Redo Create Pin Link
+[2020.08.17-16.54.00:731][480]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.17-16.54.00:771][480]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.08.17-16.54.00:781][480]LogPlayLevel: [PlayLevel] Compiling TableTopPC before play...
+[2020.08.17-16.54.00:929][480]LogUObjectHash: Compacting FUObjectHashTables data took   7.03ms
+[2020.08.17-16.54.00:935][480]LogPlayLevel: PlayLevel: Blueprint regeneration took 164 ms (1 blueprints)
+[2020.08.17-16.54.00:935][480]PIE: New page: PIE session: ThirdPersonExampleMap (17 Aug 2020, 22:54:00)
+[2020.08.17-16.54.00:936][480]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.17-16.54.01:002][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065762s)
+[2020.08.17-16.54.01:004][480]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.17-16.54.01:004][480]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D3101C7E00), frame # 78480
+[2020.08.17-16.54.01:004][480]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D318730400), frame # 78480
+[2020.08.17-16.54.01:005][480]LogPlayLevel: PIE: World Init took: (0.002777s)
+[2020.08.17-16.54.01:005][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.068927s)
+[2020.08.17-16.54.01:053][480]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.08.17-16.54.01:055][480]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.17-16.54.01:055][480]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.17-16.54.01:055][480]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.17-16.54.01:055][480]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.17-16.54.01:055][480]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.17-16.54.01:055][480]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.17-16.54.01:056][480]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.17-16.54.01:056][480]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.17-16.54.01:056][480]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.17-16.54.01:056][480]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.17-16.54.01:067][480]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.17-16.54.01:067][480]LogAudioMixer: Display: 1: FrontRight
+[2020.08.17-16.54.01:097][480]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.08.17-16.54.01:098][480]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.17-16.54.01:098][480]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.17-16.54.01:098][480]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.17-16.54.01:099][480]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.17-16.54.01:126][480]LogInit: FAudioDevice initialized.
+[2020.08.17-16.54.01:136][480]LogLoad: Game class is 'TableTopGM_C'
+[2020.08.17-16.54.01:164][480]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.08.17-19.54.01
+[2020.08.17-16.54.01:165][480]LogWorld: Bringing up level for play took: 0.028533
+[2020.08.17-16.54.01:166][480]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.08.17-16.54.01:172][480]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.08.17-16.54.01:173][480]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.08.17-16.54.01:173][480]PIE: Server logged in
+[2020.08.17-16.54.01:174][480]PIE: Play in editor total start time 0.413 seconds.
+[2020.08.17-16.54.13:868][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.17-16.54.13:868][  7]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.17-16.54.13:869][  7]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.17-16.54.13:871][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-16.54.13:890][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.17-16.54.13:897][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-16.54.13:942][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.17-16.54.13:977][  7]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D318730400), frame # 79007
+[2020.08.17-16.54.13:977][  7]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D3101C7E00), frame # 79007
+[2020.08.17-16.54.13:984][  7]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.08.17-16.54.14:044][  8]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.08.17-16.55.24:747][520]BlueprintLog: New page: Compile TableTopPC
+[2020.08.17-16.55.24:871][520]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2020.08.17-16.55.25:711][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyShit/TableTopPC" FILE="../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset" SILENT=true
+[2020.08.17-16.55.25:831][540]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/TableTopPCE17E38AA47EC05A1E92D9189B0101495.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/MyShit/TableTopPC.uasset'
+[2020.08.17-16.55.25:866][540]AssetCheck: New page: Asset Save: TableTopPC
+[2020.08.17-16.55.25:866][540]LogContentValidation: Display: Validating Blueprint /Game/MyShit/TableTopPC.TableTopPC
+[2020.08.17-16.55.56:040][737]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.17-16.55.56:080][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.17-16.55.56:080][737]PIE: New page: PIE session: ThirdPersonExampleMap (17 Aug 2020, 22:55:56)
+[2020.08.17-16.55.56:080][737]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.17-16.55.56:151][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070693s)
+[2020.08.17-16.55.56:153][737]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.17-16.55.56:153][737]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D309CC7600), frame # 80737
+[2020.08.17-16.55.56:153][737]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D377729580), frame # 80737
+[2020.08.17-16.55.56:154][737]LogPlayLevel: PIE: World Init took: (0.002633s)
+[2020.08.17-16.55.56:154][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.073682s)
+[2020.08.17-16.55.56:210][737]LogUObjectHash: Compacting FUObjectHashTables data took   7.10ms
+[2020.08.17-16.55.56:213][737]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.17-16.55.56:213][737]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.17-16.55.56:213][737]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.17-16.55.56:214][737]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.17-16.55.56:214][737]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.17-16.55.56:214][737]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.17-16.55.56:214][737]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.17-16.55.56:214][737]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.17-16.55.56:215][737]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.17-16.55.56:215][737]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.17-16.55.56:226][737]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.17-16.55.56:227][737]LogAudioMixer: Display: 1: FrontRight
+[2020.08.17-16.55.56:254][737]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.08.17-16.55.56:254][737]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.17-16.55.56:254][737]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.17-16.55.56:254][737]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.17-16.55.56:255][737]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.17-16.55.56:282][737]LogInit: FAudioDevice initialized.
+[2020.08.17-16.55.56:295][737]LogLoad: Game class is 'TableTopGM_C'
+[2020.08.17-16.55.56:326][737]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.08.17-19.55.56
+[2020.08.17-16.55.56:327][737]LogWorld: Bringing up level for play took: 0.029973
+[2020.08.17-16.55.56:328][737]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.08.17-16.55.56:334][737]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.08.17-16.55.56:334][737]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.08.17-16.55.56:335][737]PIE: Server logged in
+[2020.08.17-16.55.56:336][737]PIE: Play in editor total start time 0.265 seconds.
+[2020.08.17-16.56.10:398][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.17-16.56.10:398][164]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.08.17-16.56.10:399][164]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.17-16.56.10:402][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-16.56.10:431][164]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.17-16.56.10:438][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-16.56.10:516][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.17-16.56.10:518][164]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D377729580), frame # 81164
+[2020.08.17-16.56.10:518][164]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D309CC7600), frame # 81164
+[2020.08.17-16.56.10:526][164]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2020.08.17-16.56.10:587][165]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.08.17-16.56.18:283][273]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.08.17-16.56.18:390][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.08.17-16.56.18:803][273]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/ThirdPersonExampleMapEAEDDF9E41B3F5240CC7679010F3FA81.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.17-16.56.18:910][273]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.566
+[2020.08.17-16.56.19:115][273]LogSavePackage: Moving '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Saved/ThirdPersonExampleMap_BuiltData8C6E94EC4531D0810FE9DFA8C7BDBA3F.tmp' to '../../../../../../Users/sagi/Documents/Unreal Projects/DiceTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.08.17-16.56.19:155][273]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.17-16.56.19:155][273]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.17-16.56.19:155][273]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.08.17-16.56.24:120][302]LogTemp: Resetting audio stream to device id 
+[2020.08.17-16.56.24:195][302]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.17-16.56.24:196][302]LogAudioMixer: Display: 1: FrontRight
+[2020.08.17-19.56.27:677][309]LogTemp: Resetting audio stream to device id 
+[2020.08.17-19.56.28:274][309]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.17-19.56.28:274][309]LogAudioMixer: Display: 1: FrontRight
+[2020.08.17-19.56.28:580][311]LogHttp: Warning: 000002D363970F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6411CA36-44F7-D185-5166-D4B89AE382AA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=d379f4f74b5a671b474a82a6298a3b33%7Cf832cdac04854f02b078284537fe204e%7C54cacfd5-cb23-4a9d-bf06-a0fd27a7531a&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.08.17-19.56.28:580][311]LogHttp: Warning: 000002D363970F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.17-19.56.28:580][311]LogHttp: Warning: 000002D363970F00: libcurl info message cache 0 (Connection 37 seems to be dead!)
+[2020.08.17-19.56.28:580][311]LogHttp: Warning: 000002D363970F00: libcurl info message cache 1 (Closing connection 37)
+[2020.08.17-19.56.28:580][311]LogHttp: Warning: 000002D363970F00: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.17-19.56.28:581][311]LogHttp: Warning: 000002D363970F00: libcurl info message cache 3 (Closing connection 38)
+[2020.08.17-19.56.28:836][312]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6411CA36-44F7-D185-5166-D4B89AE382AA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=d379f4f74b5a671b474a82a6298a3b33%7Cf832cdac04854f02b078284537fe204e%7C54cacfd5-cb23-4a9d-bf06-a0fd27a7531a&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.08.17-20.42.17:342][324]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.08.17-21.02.53:046][293]LogD3D11RHI: Error: D3DRHI->GetFactory()->CreateSwapChain(DXGIDevice, &SwapChainDesc, SwapChain.GetInitReference()) failed 
+ at D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/Windows/WindowsD3D11Viewport.cpp:212 
+ with error E_OUTOFMEMORY
+[2020.08.17-21.02.55:435][293]LogConsoleResponse:     35 = 32768 KB (2D 4096x4096 PF_ShadowDepth) PreShadowCacheDepthZ
+[2020.08.17-21.02.55:435][293]LogConsoleResponse:     93 = 32768 KB (2D 4096x4096 PF_ShadowDepth) PreShadowCacheDepthZ unused(4128)
+[2020.08.17-21.02.55:436][293]LogConsoleResponse:     87 = 8192 KB (2D 2048x2048 PF_ShadowDepth) ShadowDepthAtlas unused(1)
+[2020.08.17-21.02.55:436][293]LogConsoleResponse:     68 = 8192 KB (3D 256x128x32 PF_FloatRGBA RT) AtmosphereDeltaJ
+[2020.08.17-21.02.55:436][293]LogConsoleResponse:     69 = 8192 KB (3D 256x128x32 PF_FloatRGBA RT) AtmosphereDeltaSM
+[2020.08.17-21.02.55:436][293]LogConsoleResponse:     70 = 8192 KB (3D 256x128x32 PF_FloatRGBA RT) AtmosphereDeltaSR
+[2020.08.17-21.02.55:436][293]LogConsoleResponse:     71 = 8192 KB (3D 256x128x32 PF_FloatRGBA RT) AtmosphereInscatter
+[2020.08.17-21.02.55:437][293]LogConsoleResponse:     80 = 6531 KB (2D 1208x692 PF_FloatRGBA RT UAV VRam) SceneColor unused(1) VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:437][293]LogConsoleResponse:     64 = 6531 KB (2D 1208x692 PF_FloatRGBA RT UAV) LightAccumulation
+[2020.08.17-21.02.55:437][293]LogConsoleResponse:     75 = 6531 KB (2D 1208x692 PF_FloatRGBA RT UAV) ScreenSpaceReflections unused(1)
+[2020.08.17-21.02.55:437][293]LogConsoleResponse:     55 = 6531 KB (2D 1208x692 PF_FloatRGBA RT VRam) SceneColor unused(1) VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:437][293]LogConsoleResponse:     56 = 6531 KB (2D 1208x692 PF_FloatRGBA RT VRam) SceneColor unused(4128) VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:437][293]LogConsoleResponse:     66 = 6531 KB (2D 1208x692 PF_FloatRGBA RT) SeparateTranslucency unused(1)
+[2020.08.17-21.02.55:437][293]LogConsoleResponse:     91 = 6531 KB (2D 1208x692 PF_FloatRGBA UAV) TemporalAA
+[2020.08.17-21.02.55:437][293]LogConsoleResponse:     90 = 6531 KB (2D 1208x692 PF_FloatRGBA UAV) TemporalAA unused(1)
+[2020.08.17-21.02.55:437][293]LogConsoleResponse:     25 = 4082 KB (2D 1208x692 PF_DepthStencil 4xMSAA) EditorPrimitivesDepth unused(1)
+[2020.08.17-21.02.55:437][293]LogConsoleResponse:     57 = 4082 KB (2D 1208x692 PF_DepthStencil 4xMSAA) SelectionOutline unused(1)
+[2020.08.17-21.02.55:437][293]LogConsoleResponse:     41 = 4082 KB (2D 1208x692 PF_DepthStencil VRam) SceneDepthZ VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:437][293]LogConsoleResponse:     86 = 3266 KB (2D 1208x692 PF_A2B10G10R10 RT) GBufferA unused(1)
+[2020.08.17-21.02.55:437][293]LogConsoleResponse:     60 = 3266 KB (2D 1208x692 PF_B8G8R8A8 RT 4xMSAA) EditorPrimitivesColor unused(1)
+[2020.08.17-21.02.55:437][293]LogConsoleResponse:     84 = 3266 KB (2D 1208x692 PF_B8G8R8A8 RT sRGB) GBufferC unused(1)
+[2020.08.17-21.02.55:437][293]LogConsoleResponse:     24 = 3266 KB (2D 1208x692 PF_B8G8R8A8 RT VRam) GBufferB unused(1) VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:437][293]LogConsoleResponse:     26 = 3266 KB (2D 1208x692 PF_B8G8R8A8 RT VRam) GBufferD unused(1) VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:437][293]LogConsoleResponse:     76 = 3266 KB (2D 1208x692 PF_B8G8R8A8 RT VRam) ScreenShadowMaskTexture unused(1) VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:438][293]LogConsoleResponse:     85 = 3266 KB (2D 1208x692 PF_B8G8R8A8 RT VRam) SelectionOutlineColor unused(1) VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:438][293]LogConsoleResponse:     82 = 3266 KB (2D 1208x692 PF_B8G8R8A8 RT) GBufferE unused(1)
+[2020.08.17-21.02.55:438][293]LogConsoleResponse:     88 = 3266 KB (2D 1208x692 PF_B8G8R8A8 RT) HitProxy unused(3850)
+[2020.08.17-21.02.55:438][293]LogConsoleResponse:     67 = 3266 KB (2D 1208x692 PF_B8G8R8A8 RT) LightAttenuation unused(1)
+[2020.08.17-21.02.55:438][293]LogConsoleResponse:     83 = 3266 KB (2D 1208x692 PF_B8G8R8A8 RT) Tonemap unused(1)
+[2020.08.17-21.02.55:438][293]LogConsoleResponse:     79 = 3266 KB (2D 1208x692 PF_G16R16 RT UAV) Velocity unused(1)
+[2020.08.17-21.02.55:438][293]LogConsoleResponse:     45 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume0
+[2020.08.17-21.02.55:438][293]LogConsoleResponse:     51 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume1
+[2020.08.17-21.02.55:438][293]LogConsoleResponse:     62 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume2
+[2020.08.17-21.02.55:438][293]LogConsoleResponse:     46 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir0
+[2020.08.17-21.02.55:438][293]LogConsoleResponse:     61 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir1
+[2020.08.17-21.02.55:438][293]LogConsoleResponse:     63 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir2
+[2020.08.17-21.02.55:438][293]LogConsoleResponse:     42 = 2041 KB (2D 604x346 PF_DepthStencil) SmallDepthZ
+[2020.08.17-21.02.55:438][293]LogConsoleResponse:     65 = 1633 KB (2D 1208x346 PF_R32_UINT RT UAV) QuadOverdrawBuffer
+[2020.08.17-21.02.55:438][293]LogConsoleResponse:     78 = 1633 KB (2D 604x346 PF_FloatRGBA RT VRam) AmbientOcclusionSetup unused(1) VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:438][293]LogConsoleResponse:     81 = 1366 KB (2D 1024x512 PF_R16F UAV VRam) HZBFurthest unused(1) VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:438][293]LogConsoleResponse:     31 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap0
+[2020.08.17-21.02.55:438][293]LogConsoleResponse:     30 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap1
+[2020.08.17-21.02.55:439][293]LogConsoleResponse:     54 = 1024 KB (Cube[1] 128 PF_FloatRGBA) ReflectionEnvs
+[2020.08.17-21.02.55:439][293]LogConsoleResponse:     92 = 1024 KB (Cube[1] 128 PF_FloatRGBA) ReflectionEnvs unused(4128)
+[2020.08.17-21.02.55:439][293]LogConsoleResponse:     43 = 817 KB (2D 1208x692 PF_G8 RT UAV) ScreenSpaceAO
+[2020.08.17-21.02.55:439][293]LogConsoleResponse:     77 = 817 KB (2D 604x346 PF_B8G8R8A8 RT VRam) AmbientOcclusion unused(1) VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:439][293]LogConsoleResponse:     52 = 817 KB (2D 604x346 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:439][293]LogConsoleResponse:     32 = 817 KB (2D 604x346 PF_FloatRGB RT VRam) BloomY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:439][293]LogConsoleResponse:      2 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.08.17-21.02.55:439][293]LogConsoleResponse:      3 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.08.17-21.02.55:439][293]LogConsoleResponse:     39 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.08.17-21.02.55:439][293]LogConsoleResponse:      1 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.08.17-21.02.55:439][293]LogConsoleResponse:      4 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.08.17-21.02.55:439][293]LogConsoleResponse:     89 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU unused(4128)
+[2020.08.17-21.02.55:439][293]LogConsoleResponse:     50 = 205 KB (2D 302x173 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:439][293]LogConsoleResponse:     33 = 205 KB (2D 302x173 PF_FloatRGB RT VRam) BloomY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:439][293]LogConsoleResponse:     74 = 128 KB (2D 256x64 PF_FloatRGBA RT) AtmosphereTransmittance
+[2020.08.17-21.02.55:440][293]LogConsoleResponse:     95 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs unused(4128) VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:440][293]LogConsoleResponse:     59 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:440][293]LogConsoleResponse:     11 = 64 KB (2D 128x128 PF_B8G8R8A8) PerlinNoiseGradient
+[2020.08.17-21.02.55:440][293]LogConsoleResponse:     29 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap0
+[2020.08.17-21.02.55:440][293]LogConsoleResponse:     28 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap1
+[2020.08.17-21.02.55:440][293]LogConsoleResponse:     49 = 52 KB (2D 151x87 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:440][293]LogConsoleResponse:     34 = 52 KB (2D 151x87 PF_FloatRGB RT VRam) BloomY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:440][293]LogConsoleResponse:     44 = 49 KB (2D 98x64 PF_A16B16G16R16) SSProfiles
+[2020.08.17-21.02.55:440][293]LogConsoleResponse:     22 = 32 KB (2D 64x64 PF_FloatRGBA VRam) LTCMat VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:440][293]LogConsoleResponse:     18 = 16 KB (2D 128x32 PF_G16R16) PreintegratedGF
+[2020.08.17-21.02.55:440][293]LogConsoleResponse:     23 = 16 KB (2D 64x64 PF_G16R16F VRam) LTCAmp VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:440][293]LogConsoleResponse:     19 = 16 KB (3D 16x16x16 PF_B8G8R8A8) PerlinNoise3D
+[2020.08.17-21.02.55:440][293]LogConsoleResponse:     48 = 14 KB (2D 76x44 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:440][293]LogConsoleResponse:     36 = 14 KB (2D 76x44 PF_FloatRGB RT VRam) BloomY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:440][293]LogConsoleResponse:     72 = 8 KB (2D 64x16 PF_FloatRGBA RT) AtmosphereDeltaE
+[2020.08.17-21.02.55:440][293]LogConsoleResponse:     73 = 8 KB (2D 64x16 PF_FloatRGBA RT) AtmosphereIrradiance
+[2020.08.17-21.02.55:440][293]LogConsoleResponse:     20 = 8 KB (2D 64x64 PF_R8G8) SSAORandomization
+[2020.08.17-21.02.55:440][293]LogConsoleResponse:     47 = 4 KB (2D 38x22 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:440][293]LogConsoleResponse:     37 = 4 KB (2D 38x22 PF_FloatRGB RT VRam) BloomY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:440][293]LogConsoleResponse:     40 = 1 KB (2D 19x11 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:441][293]LogConsoleResponse:     38 = 1 KB (2D 19x11 PF_FloatRGB RT VRam) BloomY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.08.17-21.02.55:441][293]LogConsoleResponse:     58 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.08.17-21.02.55:441][293]LogConsoleResponse:     53 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.08.17-21.02.55:441][293]LogConsoleResponse:     96 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation unused(4128)
+[2020.08.17-21.02.55:441][293]LogConsoleResponse:     94 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation unused(4128)
+[2020.08.17-21.02.55:441][293]LogConsoleResponse:      8 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackAlphaOneDummy
+[2020.08.17-21.02.55:441][293]LogConsoleResponse:      6 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackDummy
+[2020.08.17-21.02.55:441][293]LogConsoleResponse:     10 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) DefaultNormal8Bit
+[2020.08.17-21.02.55:441][293]LogConsoleResponse:      9 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) GreenDummy
+[2020.08.17-21.02.55:441][293]LogConsoleResponse:      5 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) WhiteDummy
+[2020.08.17-21.02.55:441][293]LogConsoleResponse:     13 = 1 KB (2D 1x1 PF_DepthStencil) DepthDummy
+[2020.08.17-21.02.55:441][293]LogConsoleResponse:     12 = 1 KB (2D 1x1 PF_FloatRGBA RT) MaxFP16Depth
+[2020.08.17-21.02.55:441][293]LogConsoleResponse:     15 = 1 KB (2D 1x1 PF_FloatRGBA RT) MidGreyDummy
+[2020.08.17-21.02.55:441][293]LogConsoleResponse:      7 = 1 KB (2D 1x1 PF_R32_UINT RT) ZeroUIntDummy
+[2020.08.17-21.02.55:441][293]LogConsoleResponse:     14 = 1 KB (2D 1x1 PF_R8G8B8A8_UINT RT) StencilDummy
+[2020.08.17-21.02.55:441][293]LogConsoleResponse:     16 = 1 KB (2D 32x16 PF_R16_UINT) SobolSampling
+[2020.08.17-21.02.55:441][293]LogConsoleResponse:     21 = 1 KB (2D 4x4 PF_R8G8B8A8) GTAORandomization
+[2020.08.17-21.02.55:441][293]LogConsoleResponse:     27 = 1 KB (2D 9x1 PF_FloatRGBA RT) SkySHIrradianceMap
+[2020.08.17-21.02.55:441][293]LogConsoleResponse:     17 = 1 KB (3D 1x1x1 PF_B8G8R8A8 RT) VolumetricBlackDummy
+[2020.08.17-21.02.55:441][293]LogConsoleResponse: 
+[2020.08.17-21.02.55:441][293]LogConsoleResponse: Pool: 102/234 MB (referenced/allocated)
+[2020.08.17-21.02.55:444][293]Cmd: rhi.DumpMemory
+[2020.08.17-21.02.55:498][293]RHI resource memory (not tracked by our allocator)
+[2020.08.17-21.02.55:498][293]         2228160  -  Render target memory Cube - STAT_RenderTargetMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2020.08.17-21.02.55:498][293]        54952868  -  Render target memory 3D - STAT_RenderTargetMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2020.08.17-21.02.55:498][293]         3870732  -  Structured buffer memory - STAT_StructuredBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.08.17-21.02.55:498][293]         8752288  -  Uniform buffer memory - STAT_UniformBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.08.17-21.02.55:498][293]        32571300  -  Texture memory Cube - STAT_TextureMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2020.08.17-21.02.55:498][293]         8413260  -  Texture memory 3D - STAT_TextureMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2020.08.17-21.02.55:498][293]      1081633121  -  Render target memory 2D - STAT_RenderTargetMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2020.08.17-21.02.55:498][293]       164994001  -  Texture memory 2D - STAT_TextureMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2020.08.17-21.02.55:499][293]        42278190  -  Index buffer memory - STAT_IndexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.08.17-21.02.55:499][293]        39379298  -  Vertex buffer memory - STAT_VertexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.08.17-21.02.55:499][293]1372.407MB total
+[2020.08.17-21.02.55:501][293]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.08.17-21.02.55:502][293]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.08.17-21.02.55:534][293]Log file closed, 08/18/20 00:02:55
